@@ -1,0 +1,42 @@
+[
+ {
+  "tvg-id": "tvOneNews.yt",
+  "name": "tvOne",
+  "group": "News",
+  "video_id": "rQJoEpzKkNk",
+  "watch": "https://www.youtube.com/watch?v=rQJoEpzKkNk",
+  "title": "Live Streaming tvOne 24 Jam 2026-09-29 23:22",
+  "channel": "tvOneNews ",
+  "logo": "https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png"
+ },
+ {
+  "tvg-id": "KOMPASTV.yt",
+  "name": "Kompas TV",
+  "group": "News",
+  "video_id": "E3420sbNd9Q",
+  "watch": "https://www.youtube.com/watch?v=E3420sbNd9Q",
+  "title": "LIVE - Lansia Melawan Demensia, Seberapa Siap Pemerintah Menanganinya? | BERKAS KOMPAS 2026-09-29 23:22",
+  "channel": "KOMPASTV",
+  "logo": "https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png"
+ },
+ {
+  "tvg-id": "IDXChannel.yt",
+  "name": "IDX Channel",
+  "group": "News",
+  "video_id": "hjCkB9XRpkU",
+  "watch": "https://www.youtube.com/watch?v=hjCkB9XRpkU",
+  "title": "\ud83d\udd34LIVE STREAMING - 24 JAM | IDX CHANNEL 2026-09-29 23:22",
+  "channel": "IDX CHANNEL",
+  "logo": "https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg"
+ },
+ {
+  "tvg-id": "metrotvnews.yt",
+  "name": "Metro TV",
+  "group": "News",
+  "video_id": "e1dGmEx92r0",
+  "watch": "https://www.youtube.com/watch?v=e1dGmEx92r0",
+  "title": "BREAKING NEWS - AKSI MOGOK NASIONAL PEKERJA SEKTOR PUBLIK DI PRANCIS [29/9] 2026-09-29 23:22",
+  "channel": "METRO TV ",
+  "logo": "https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png"
+ }
+]
