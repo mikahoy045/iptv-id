@@ -122,3 +122,22 @@ Signed HLS master URLs also work but expire within hours and are IP-locked,
 so they are NOT shipped. The video IDs themselves change when the channel
 restarts its stream; `yt_refresh.py` re-probes and `build_playlist.py`
 re-emits.
+
+## hometv.biz.id channels (movies / entertainment / F1-golf-tennis sports)
+
+Sourced from a private Xtream-UI panel export (`INDONESIA-TV.m3u`). The panel
+rotates its `/play/<token>` URLs roughly every 48 hours — old tokens die
+globally for everyone (verified from an external IP). Tokens are 128-bit random
+secrets per channel per export: they cannot be derived or guessed.
+
+When hometv channels show "too much connection" / 404 / black screen:
+
+1. Obtain a fresh copy of the panel's `INDONESIA-TV.m3u` export (same source
+   the 2026-09-27 file came from).
+2. `python3 refresh_hometv.py path/to/INDONESIA-TV.m3u` — swaps every token by
+   channel name, re-probes each row, and reports what came back alive.
+3. `python3 build_playlist.py data/verified2.json tv_indonesia.m3u`
+4. `gh gist edit a4d5000613a7f219f8d436c60e9438c5 tv_indonesia.m3u`
+
+hometv rows are only ever used for movies/entertainment/F1-golf-tennis sports —
+local TV always ships from its own verified sources.
