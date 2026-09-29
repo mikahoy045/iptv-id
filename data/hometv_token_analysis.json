@@ -1,0 +1,13 @@
+{
+ "xui_id_range": [
+  3,
+  25437
+ ],
+ "count": 3254,
+ "token_length_dist": {
+  "22": 73,
+  "43": 3181
+ },
+ "charset": "-0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ_abcdefghijklmnopqrstuvwxyz",
+ "conclusion": "tokens are opaque per-export secrets; structural regeneration needs a second export sample to test derivation. Practical refresh = new panel export via refresh_hometv.py"
+}
