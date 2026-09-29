@@ -10416,5 +10416,77 @@
   "ok": true,
   "err": null,
   "bitrate": null
+ },
+ {
+  "source": "us-ts-relay",
+  "tvg-id": "",
+  "tvg-logo": "",
+  "group-title": "Movies",
+  "name": "Cinemax (US)",
+  "http-user-agent": null,
+  "url": "http://23.237.104.106:8080/USA_CINEMAX/mpegts",
+  "ok": true,
+  "err": null,
+  "bitrate": null
+ },
+ {
+  "source": "us-ts-relay",
+  "tvg-id": "",
+  "tvg-logo": "",
+  "group-title": "Movies",
+  "name": "HBO Family (US)",
+  "http-user-agent": null,
+  "url": "http://23.237.104.106:8080/USA_HBO_FAMILY/mpegts",
+  "ok": true,
+  "err": null,
+  "bitrate": null
+ },
+ {
+  "source": "us-ts-relay",
+  "tvg-id": "",
+  "tvg-logo": "",
+  "group-title": "Movies",
+  "name": "HBO Zone (US)",
+  "http-user-agent": null,
+  "url": "http://23.237.104.106:8080/USA_HBO_ZONE/mpegts",
+  "ok": true,
+  "err": null,
+  "bitrate": null
+ },
+ {
+  "source": "us-ts-relay",
+  "tvg-id": "",
+  "tvg-logo": "",
+  "group-title": "Movies",
+  "name": "5StarMax (US)",
+  "http-user-agent": null,
+  "url": "http://23.237.104.106:8080/USA_5STARMAX/mpegts",
+  "ok": true,
+  "err": null,
+  "bitrate": null
+ },
+ {
+  "source": "us-ts-relay",
+  "tvg-id": "",
+  "tvg-logo": "",
+  "group-title": "Movies",
+  "name": "MoreMax (US)",
+  "http-user-agent": null,
+  "url": "http://23.237.104.106:8080/USA_MOREMAX/mpegts",
+  "ok": true,
+  "err": null,
+  "bitrate": null
+ },
+ {
+  "source": "us-ts-relay",
+  "tvg-id": "",
+  "tvg-logo": "",
+  "group-title": "Movies",
+  "name": "Starz Cinema (US)",
+  "http-user-agent": null,
+  "url": "http://23.237.104.106:8080/USA_STARZ_CINEMA/mpegts",
+  "ok": true,
+  "err": null,
+  "bitrate": null
  }
 ]
