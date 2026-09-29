@@ -78,17 +78,17 @@ GROUP_OVERRIDE = [
     (re.compile(r'(?i)\b(trans ?7|trans ?tv|cnbc|cnn indonesia|detik)\b'), 'Trans'),
     (re.compile(r'(?i)\b(beritasatu|berita satu|btv|metro tv|metro globe|tvone|idx|sindo|jawapos)\b'), 'News'),
     (re.compile(r'(?i)\b(antv|kompas|rtv|net\.? tv|jak ?tv|jtv|bdbtv|balikpapan)\b'), 'National'),
-    (re.compile(r'(?i)(sport|thri?i?l|champion|ficom)'), 'Sports'),
+    (re.compile(r'(?i)(sport|\bthri?i?l\b|champion|ficom)'), 'Sports'),
     (re.compile(r'(?i)(^dens|dens\b|lifestyle|food channel|hanacaraka|life & style|fashion)'), 'Lifestyle'),
-    (re.compile(r'(?i)(cartoon|dunia anak|my kid|kids)'), 'Kids'),
-    (re.compile(r'(?i)(bioskop|cinema|celestial|vision prime|^life$|\b(axn|hbo|kix|cinemax|warner)\b|star movies|mn\+)'), 'Movies'),
+    (re.compile(r'(?i)(cartoon|dunia anak|my kid|kids|nick jr|nickelodeon|mr bean)'), 'Kids'),
+    (re.compile(r'(?i)(bioskop|cinema|celestial|vision prime|^life$|\b(axn|hbo|kix|cinemax|warner)\b|star movies|mn\+|moviesphere|gravitas|hallmark|paramount|pluto tv (action|comedy|thriller|horror|crime|drama|science|cult|western|romance|movie|franchise|trending|star trek|spotlight|staff picks|netmovies|bang bang|zombies|western)|great! movies|etv cinema|24 hour free movies|summer of movies|cinemaworld|star trek movies)'), 'Movies'),
     (re.compile(r'(?i)(daai|wafa|im ?channel|madani|puja|salam|nabawi|bahjah|dzakara|tv ?mu|rree|rodja|tawaf|surau|ahsan|mqtv|mgi|religi|dakwah)'), 'Religious'),
     (re.compile(r'(?i)(ewtn|angel tv|cgntv|reformed|hope channel|vatican|katholic|catholic)'), 'Religious'),
-    (re.compile(r'(?i)\b(discovery|national geographic|nat geo|animal planet|history|bbc earth|love nature|crime investigation|cgtn documentary|inwild|wild planet|wild earth|adventure earth)\b'), 'Documentary'),
+    (re.compile(r'(?i)\b(discovery|national geographic|nat geo|animal planet|history|bbc earth|love nature|crime investigation|cgtn documentary|inwild|wild planet|wild earth|adventure earth|smithsonian|pluto tv (history|nature|true crime|food))\b'), 'Documentary'),
     (re.compile(r'(?i)\b(bbc news|cnn inter|sky news|al jazeera|dw english|france 24|cnbc asia|bloomberg|\bcna\b|nbc news|rt english|euro news|gb news|cbc news|tv5 monde info|cgtn)\b'), 'News'),
     (re.compile(r'(?i)(cartoon network|nickelodeon|nick jr|dreamworks|aniplus|cartoonito|baby tv|cbeebies|moonbug|zoomoo|duck tv|planet fun|\banimax\b)'), 'Kids'),
     (re.compile(r'(?i)(movies now|\bmnx\b|sony pix|\bhits\b|hits movies|studio universal|\bflik\b|\bimc\b|rock action|rock entertainment|cinema world|\bthrill\b|\bboo\b|showchase|\bgalaxy\b|galaxy premium)'), 'Movies'),
-    (re.compile(r'(?i)(motogp|tennis channel|dazn|\bf1\b|f1 tv|golf channel|sky golf|ziggo golf|ziggo tennis|super tennis|tsn f1|sky f1|vsport|m golf|t2 tennis)'), 'Sports'),
+    (re.compile(r'(?i)(motogp|tennis channel|dazn|\bf1\b|f1 tv|golf channel|sky golf|ziggo golf|ziggo tennis|super tennis|tsn f1|sky f1|vsport|m golf|t2 tennis|pluto tv (e-sports|competition|snooker)|fight network)'), 'Sports'),
     (re.compile(r'(?i)(lifetime|hgtv|\btlc\b|drama hebat|film mantap|nhk world|kbs world|e! entertainment|\bboo\b|arirang|citra drama|\bk plus\b|tv5 monde|abc australia|citra entertainment)'), 'General'),
 ]
 
@@ -220,7 +220,7 @@ def score(e):
     return s
 
 def is_indonesian(e):
-    if e.get('source') in ('hometv.ts', 'alt-fashion', 'ftv-official'):
+    if e.get('source') in ('hometv.ts', 'alt-fashion', 'ftv-official', 'fast-channel'):
         return True              # user-approved additions (hometv panel + alternates)
     name = (e.get('name', '') or '') + ' ' + (e.get('tvg-id', '') or '')
     base = (e.get('tvg-id', '') or '').split('@')[0].lower()
@@ -251,7 +251,7 @@ def main():
         base = (e.get('tvg-id', '') or '').split('@')[0].lower()
         reg = REGISTRY.get(base)          # registry id is authoritative; skips FOREIGN
         if (not disp or BAD_NAME.match(disp)
-                or (e.get('source') not in ('hometv.ts', 'alt-fashion', 'ftv-official')
+                or (e.get('source') not in ('hometv.ts', 'alt-fashion', 'ftv-official', 'fast-channel')
                     and not reg and base not in PREMIUM_OK and FOREIGN.search(disp))):
             continue
         k = nkey(disp)

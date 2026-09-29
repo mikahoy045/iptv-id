@@ -1,0 +1,1980 @@
+{
+ "ONE": [
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd",
+  "https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd"
+ ],
+ "Studio Universal": [
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd",
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "TRANS TV V+": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd"
+ ],
+ "KOMPAS TV V+": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/dafcaf8b26064ae7b27702088240b535/index.mpd"
+ ],
+ "METRO TV DNS": [
+  "https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8"
+ ],
+ "METRO TV V+": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd"
+ ],
+ "ANTV V+": [
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd"
+ ],
+ "INDOSIAR V+": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd"
+ ],
+ "SCTV V+": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd"
+ ],
+ "SCTV MAX": [
+  "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "MDTV DNS": [
+  "https://op-flashcon-digdayahd-1.dens.tv/h/h223/index.m3u8"
+ ],
+ "MDTV V+": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd"
+ ],
+ "MENTARI TV V+": [
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd"
+ ],
+ "MOJI TV V+": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd"
+ ],
+ "MOJI TV DNS": [
+  "https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8"
+ ],
+ "TVONE V+": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f3df48faafaf4198a65b9763140fce30/index.mpd"
+ ],
+ "TVONE MAX": [
+  "https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "RCTI V+": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
+ ],
+ "RCTI MAX": [
+  "https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "RCTI R+": [
+  "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti"
+ ],
+ "MNC TV V+": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd"
+ ],
+ "MNC TV R+": [
+  "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv"
+ ],
+ "MNC TV MAX": [
+  "https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "GTV V+": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd"
+ ],
+ "GTV R+": [
+  "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv"
+ ],
+ "INEWS V+": [
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/34d8dd29eb1d4eba931c7c5ab5f4be09/index.mpd"
+ ],
+ "INEWS R+": [
+  "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
+ ],
+ "SINDONEWS IH": [
+  "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd",
+  "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "MAGNA DNS": [
+  "https://op-flashcon-digdayahd-1.dens.tv/h/h24/index.m3u8"
+ ],
+ "BTV V+": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/3112ca4fbc2642e79ecaf9b2b0999e07/index.mpd"
+ ],
+ "RTV V+": [
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/b0eebcecfb12424cb5f3c3cdb239f3c1/index.mpd"
+ ],
+ "JOWO CHANNEL DNS": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8"
+ ],
+ "SINDONEWS v+": [
+  "https://indihuy.streamized.net/atm/DASH/mncnews/manifest.mpd"
+ ],
+ "HANACARAKA V+": [
+  "https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd"
+ ],
+ "VISION PRIME V+": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd"
+ ],
+ "RCTV CIREBON": [
+  "https://v10.siar.us/rctv/live/playlist.m3u8"
+ ],
+ "CARUBAN TV (CIREBON)": [
+  "https://stream.carubantv.id/hls/1/stream.m3u8?cachebust=9cd08107"
+ ],
+ "ELSHINTA TV DNS (JAKARTA)": [
+  "http://op-group2-swiftservesd-1.dens.tv/s/s12/index.m3u8"
+ ],
+ "BANDUNG TV V+": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd"
+ ],
+ "BALI TV V+": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/44a2d1ab71a740babb233cf14832c59d/index.mpd|referrer=https://visionplus.id"
+ ],
+ "TVMUH": [
+  "https://e.siar.us/live/tvmu.m3u8"
+ ],
+ "TV9": [
+  "https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w804001730.m3u8"
+ ],
+ "BMS TV (BANYUMAS)": [
+  "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/chunklist_w710182401.m3u8"
+ ],
+ "ABTV BLITAR": [
+  "https://5bf7b725107e5.streamlock.net/abtv/abtv/chunklist_w1913721130.m3u8"
+ ],
+ "TATV (SOLO)": [
+  "https://tatv.siar.us/tatv/live.sdp/playlist.m3u8"
+ ],
+ "JAWA POS TV INDI": [
+  "https://indihuy.streamized.net/atm/DASH/jawapos/manifest.mpd"
+ ],
+ "dmtv": [
+  "https://e.siar.us/live/dmtv.m3u8"
+ ],
+ "Efarina TV (SIMALUNGUN)": [
+  "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
+ ],
+ "STARA TV": [
+  "https://stream.staratv.id/hls/0/stream.m3u8"
+ ],
+ "K TV": [
+  "https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/playlist.m3u8"
+ ],
+ "SURABAYA TV": [
+  "https://e.siar.us/live/surabayatv.m3u8"
+ ],
+ "SEMARANG TV": [
+  "https://tvku.tv/hlsstream/hls/live.m3u8"
+ ],
+ "IDTV": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h209/index.m3u8"
+ ],
+ "DHOHO TV (KEDIRI)": [
+  "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+ ],
+ "MAGNA DENS": [
+  "http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8"
+ ],
+ "RTV DNS": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h10/01.m3u8"
+ ],
+ "SAKTI TV (MADIUN)": [
+  "https://saktitv.siar.us/saktitv/live/playlist.m3u8"
+ ],
+ "DUTA TV (BANJARMASIN)": [
+  "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
+ ],
+ "BUNGO TV (JAMBI)": [
+  "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w722532023.m3u8"
+ ],
+ "MADU TV (TULUNGAGUNG)": [
+  "https://re1.siar.us/madutv/hd720/playlist.m3u8"
+ ],
+ "IMTV (JAKARTA)": [
+  "https://5bf7b725107e5.streamlock.net/imtv/imtv/chunklist_w422579395.m3u8"
+ ],
+ "BANTEN TV": [
+  "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8"
+ ],
+ "JITV": [
+  "https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w1342644305.m3u8"
+ ],
+ "RADIO SURABAYA": [
+  "https://ssfm.siar.us/ssfm/live/playlist.m3u8"
+ ],
+ "SAMPIT TV (SAMPIT)": [
+  "https://e.siar.us/live/sampit-tv.m3u8"
+ ],
+ "KALTARA TV": [
+  "https://5bf7b725107e5.streamlock.net/kaltaratv/kaltaratv/chunklist_w632217650.m3u8"
+ ],
+ "BRTV (BEKASI)": [
+  "https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1484101028.m3u8"
+ ],
+ "TV TABALONG": [
+  "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w806925474.m3u8"
+ ],
+ "UGTV (DEPOK)": [
+  "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8"
+ ],
+ "TVKU (SEMARANG)": [
+  "https://tvku.tv/hlsstream/hls/live.m3u8"
+ ],
+ "PKTV (KALTIM)": [
+  "https://streaming.id18.tunnel.my.id/hls/stream.m3u8"
+ ],
+ "RADAR TV TASIKMALAYA": [
+  "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
+ ],
+ "MGSTV (SUKABUMI)": [
+  "https://mgstv.siar.us/live/mgstv.m3u8"
+ ],
+ "MUI TV": [
+  "https://mui.siar.us/mui/live/playlist.m3u8"
+ ],
+ "PON TV (PONTIANAK)": [
+  "https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8"
+ ],
+ "WESAL TV": [
+  "https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8"
+ ],
+ "INSPIRA TV (BANDUNG)": [
+  "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8"
+ ],
+ "PLAYLIST INI AKAN SEGERA OFF": [
+  "https://raw.githubusercontent.com/iwanfalstv/Nyetlu/refs/heads/main/njing/output.m3u8"
+ ],
+ "Soccer Channel": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id",
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "Sportstars": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id",
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "Sportstars 2": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|Referer=https://www.visionplus.id",
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "SPORTSTARS 4": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd"
+ ],
+ "SPORTSTARS 02 HD": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd"
+ ],
+ "Crime Investigation": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd",
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd"
+ ],
+ "Global Trekker": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd",
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/99b07f39f4964b7cb9bfc092b51af734/index.mpd"
+ ],
+ "Galaxy": [
+  "https://fta4-cdn-flr.visionplus.id/out/v1/751a0982779f4edd904205eb351e220d/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "GALAXY PREMIUM": [
+  "https://live-channel4-cdn.visionplus.id/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd"
+ ],
+ "HITS Now": [
+  "https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd"
+ ],
+ "Lotusmacau Prd": [
+  "https://cdn4.skygo.mn/live/disk1/Lotus/HLSv3-FTA/Lotus.m3u8"
+ ],
+ "Originals HD": [
+  "https://fta3-cdn-flr.visionplus.id/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "Rock Action": [
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/010bb28c19b64975b318d3b00f58b18b/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "ROCK Entertainment": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/4cae4723d4d54a7fb71020bd7939a202/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "IMC": [
+  "https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "CNBC HD": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd|Referer=https://www.visionplus.id"
+ ],
+ "CNN": [
+  "https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_cnnhd/default/index.mpd"
+ ],
+ "IDX": [
+  "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd",
+  "https://cdnbal1.indihometv.com/atm/DASH/idx/idx-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "AswajaTV": [
+  "https://warningfm.github.io/dailymotion/AswajaTV.m3u8"
+ ],
+ "TV9 Nusantara": [
+  "https://raw.githubusercontent.com/warningfm/kano/main/live/m3u8/id/ca07a749e91966b.m3u8"
+ ],
+ "MQTV": [
+  "https://gist.githubusercontent.com/warningfm/b04ba9b82d3b32b0929262e9daad5d11/raw/bee477ab862965d0c4c8217e84d0dcb3919353f5/55b1da7f755ebf7.m3u8",
+  "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/chunklist_w1120365025.m3u8"
+ ],
+ "CITRA MUSLIM": [
+  "https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mediampd/CitraMuslimHD.mpd"
+ ],
+ "ALWAFA TARIM TV": [
+  "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
+ ],
+ "MY KIDZ  (ID)": [
+  "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd"
+ ],
+ "RCTI HD": [
+  "https://mncmedia.malingtv.workers.dev/rcti.m3u8",
+  "https://mncmedia.malingtv.workers.dev/rcti.m3u8"
+ ],
+ "MNC TV HD": [
+  "https://mncmedia.malingtv.workers.dev/mnctv.m3u8",
+  "https://mncmedia.malingtv.workers.dev/mnctv.m3u8"
+ ],
+ "GTV HD": [
+  "https://mncmedia.malingtv.workers.dev/gtv.m3u8",
+  "https://mncmedia.malingtv.workers.dev/gtv.m3u8",
+  "https://mncmedia.malingtv.workers.dev/gtv.m3u8"
+ ],
+ "iNews HD": [
+  "https://mncmedia.malingtv.workers.dev/inews.m3u8",
+  "https://live.i-news.tv/hls/stream.m3u8",
+  "https://mncmedia.malingtv.workers.dev/inews.m3u8",
+  "https://live.i-news.tv/hls/stream.m3u8"
+ ],
+ "TransTV HD": [
+  "http://119.82.250.109:8080/nl.m3u8?id=1145",
+  "https://green-night-d2b4.iontv.workers.dev/transtv.m3u8",
+  "http://119.82.250.109:8080/nl.m3u8?id=1145",
+  "https://green-night-d2b4.iontv.workers.dev/transtv.m3u8"
+ ],
+ "Trans7 HD": [
+  "http://119.82.250.109:8080/nl.m3u8?id=1002",
+  "https://green-night-d2b4.iontv.workers.dev/trans7.m3u8",
+  "http://119.82.250.109:8080/nl.m3u8?id=1002",
+  "https://green-night-d2b4.iontv.workers.dev/trans7.m3u8"
+ ],
+ "Metro TV HD": [
+  "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
+  "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+ ],
+ "Kompas TV HD (Alt 2)": [
+  "https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/10.m3u8",
+  "https://masterplayer.pro:443/live/Kang_pagal12/12Kang_pagal/10.m3u8"
+ ],
+ "DAAI TV HD": [
+  "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8",
+  "https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8"
+ ],
+ "RTV (Indihome)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/RAJAWALI_TV/master.mpd"
+ ],
+ "Ashiil TV (480p)": [
+  "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8",
+  "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8",
+  "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8",
+  "https://wahyu1ptv.pages.dev/AshiilTV-HD.m3u8"
+ ],
+ "Atambua TV (720p)": [
+  "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/ATAMBUATV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Balikpapan TV (720p)": [
+  "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/BALIKPAPANTV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Bandung TV (360p)": [
+  "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+  "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+  "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+  "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8"
+ ],
+ "Ahsan TV": [
+  "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
+  "https://flv.intechmedia.net/live/ch4.m3u8",
+  "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/ahsantv/ahsantv/playlist.m3u8"
+ ],
+ "CNBC Indonesia (720p)": [
+  "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8",
+  "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8"
+ ],
+ "Ajwa TV (1080p)": [
+  "http://ikitv.sqn.at:8000/play/a00j/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a00j/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a00j/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a00j/index.m3u8"
+ ],
+ "Davika TV (480p)": [
+  "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/davika/davika/playlist.m3u8"
+ ],
+ "JTV Madiun": [
+  "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMADIUN/_definst_/myStream/playlist.m3u8"
+ ],
+ "Jawa Pos TV Jakarta (720p)": [
+  "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JAWAPOSTVJKT/_definst_/myStream/playlist.m3u8"
+ ],
+ "JTV Malang": [
+  "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMALANG/_definst_/myStream/playlist.m3u8"
+ ],
+ "I Am Channel (576p)": [
+  "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
+  "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
+  "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
+  "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8",
+  "https://61146e7ab7a66.streamlock.net:8089/tes/1/chunklist.m3u8"
+ ],
+ "DMI TV (576i)": [
+  "https://tvstreamcast.com/tawaftv.m3u8",
+  "https://tvstreamcast.com/tawaftv.m3u8",
+  "https://tvstreamcast.com/tawaftv.m3u8",
+  "https://tvstreamcast.com/tawaftv.m3u8",
+  "https://tvstreamcast.com/tawaftv.m3u8"
+ ],
+ "Matrix TV Yogyakarta (720p)": [
+  "https://stream.matrixtv.id/hls/0/stream.m3u8",
+  "https://stream.matrixtv.id/hls/0/stream.m3u8",
+  "https://stream.matrixtv.id/hls/0/stream.m3u8",
+  "https://stream.matrixtv.id/hls/0/stream.m3u8",
+  "https://stream.matrixtv.id/hls/0/stream.m3u8"
+ ],
+ "PKTV (480p)": [
+  "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
+  "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
+  "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
+  "https://streaming.id18.tunnel.my.id/hls/stream.m3u8",
+  "https://streaming.id18.tunnel.my.id/hls/stream.m3u8"
+ ],
+ "RRI Net (1080p)": [
+  "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
+  "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
+  "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
+  "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8",
+  "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
+ ],
+ "MBG TV (1080p)": [
+  "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
+  "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
+  "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8",
+  "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
+ ],
+ "Salam TV (720p)": [
+  "https://live.salamtelevisi.com/hls/0/stream.m3u8",
+  "https://live.salamtelevisi.com/hls/0/stream.m3u8",
+  "https://live.salamtelevisi.com/hls/0/stream.m3u8",
+  "https://live.salamtelevisi.com/hls/0/stream.m3u8"
+ ],
+ "Madani TV (720p)": [
+  "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
+  "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
+  "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
+  "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8",
+  "https://stream.asianastream.com/madani/madanitv.smil/playlist.m3u8"
+ ],
+ "Sangaji TV (720p)": [
+  "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
+  "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
+  "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
+  "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8",
+  "https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8"
+ ],
+ "SMTV (720p)": [
+  "https://e.siar.us/live/smtv.m3u8",
+  "https://e.siar.us/live/smtv.m3u8",
+  "https://e.siar.us/live/smtv.m3u8",
+  "https://e.siar.us/live/smtv.m3u8",
+  "https://e.siar.us/live/smtv.m3u8"
+ ],
+ "Stara TV Jakarta (1080p)": [
+  "https://jakarta.staratv.id/hls/0/stream.m3u8",
+  "https://jakarta.staratv.id/hls/0/stream.m3u8",
+  "https://jakarta.staratv.id/hls/0/stream.m3u8",
+  "https://jakarta.staratv.id/hls/0/stream.m3u8",
+  "https://jakarta.staratv.id/hls/0/stream.m3u8"
+ ],
+ "Stara TV Bojonegoro (720p)": [
+  "https://bojonegoro.staratv.id/hls/stream.m3u8",
+  "https://bojonegoro.staratv.id/hls/stream.m3u8",
+  "https://bojonegoro.staratv.id/hls/stream.m3u8",
+  "https://bojonegoro.staratv.id/hls/stream.m3u8",
+  "https://bojonegoro.staratv.id/hls/stream.m3u8"
+ ],
+ "Stara TV Parahyangan (720p)": [
+  "https://parahyangan.staratv.id/hls/0/stream.m3u8",
+  "https://parahyangan.staratv.id/hls/0/stream.m3u8",
+  "https://parahyangan.staratv.id/hls/0/stream.m3u8",
+  "https://parahyangan.staratv.id/hls/0/stream.m3u8",
+  "https://parahyangan.staratv.id/hls/0/stream.m3u8"
+ ],
+ "TV9 Nusantara (720p)": [
+  "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8"
+ ],
+ "Surau TV (720p)": [
+  "http://ikitv.sqn.at:8000/play/a00l/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a00l/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a00l/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a00l/index.m3u8"
+ ],
+ "TVKU (720p)": [
+  "https://tvku.tv/hlsstream/hls/live.m3u8",
+  "https://tvku.tv/hlsstream/hls/live.m3u8",
+  "https://tvku.tv/hlsstream/hls/live.m3u8",
+  "https://tvku.tv/hlsstream/hls/live.m3u8",
+  "https://tvku.tv/hlsstream/hls/live.m3u8"
+ ],
+ "UGTV (720p)": [
+  "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
+  "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
+  "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8",
+  "https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv.m3u8"
+ ],
+ "VTV HD (1080p)": [
+  "http://ikitv.sqn.at:8000/play/a023/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a023/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a023/index.m3u8"
+ ],
+ "U Channel": [
+  "https://srs.u-channel.tv/live/uchannel-tv.m3u8",
+  "https://srs.u-channel.tv/live/uchannel-tv.m3u8",
+  "https://srs.u-channel.tv/live/uchannel-tv.m3u8",
+  "https://srs.u-channel.tv/live/uchannel-tv.m3u8",
+  "https://srs.u-channel.tv/live/uchannel-tv.m3u8"
+ ],
+ "The Indonesia Channel (1080p)": [
+  "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
+  "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
+  "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
+  "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8",
+  "https://restreamer.indonusa.id:8443/d5f4ad43-1b5a-4b0f-8bef-5b37224ed221.m3u8"
+ ],
+ "RCTI (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/UkNUSS1DaGFubmVs/manifest.mpd"
+ ],
+ "MNC TV (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TU5DVFY/manifest.mpd"
+ ],
+ "GTV (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/R1RWLUNIQU5ORUw/manifest.mpd"
+ ],
+ "TransTV (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VHJhbnNUVg/manifest.mpd"
+ ],
+ "Trans7 (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFJBTlM3LW15/manifest.mpd"
+ ],
+ "SCTV (Vidio)": [
+  "https://vidsemar.pages.dev/terraluna2/204.mpd",
+  "https://beetv.my.id/stream/vd.m3u8?ch=sctv"
+ ],
+ "SCTV (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/U0NUVi1teQ/manifest.mpd"
+ ],
+ "Indosiar (Vidio)": [
+  "https://vidsemar.pages.dev/terraluna2/205.mpd",
+  "https://beetv.my.id/stream/vd.m3u8?ch=indosiar"
+ ],
+ "Indosiar (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/SW5kb3NpYXI/manifest.mpd"
+ ],
+ "MDTV (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TURUVg/manifest.mpd"
+ ],
+ "ANTV HD (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QU5UVg/manifest.mpd"
+ ],
+ "Kompas TV HD (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/S29tcGFzIFRW/manifest.mpd"
+ ],
+ "Metro TV (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/TWV0cm9UVg/manifest.mpd"
+ ],
+ "TVOne (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/VFZPTkU/manifest.mpd"
+ ],
+ "CNN Indonesia (ChannelFeed)": [
+  "https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8",
+  "https://video.detik.com/livecnn/smil:cnntv/chunklist_w268557525_b384000_sleng.m3u8"
+ ],
+ "CNN Indonesia (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05OaS1teQ/manifest.mpd"
+ ],
+ "CNBC Indonesia (ChannelFeed)": [
+  "https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8",
+  "https://video.detik.com/livecnbc/smil:cnbctv/chunklist_w1279679883_b384000_sleng.m3u8"
+ ],
+ "CNBC Indonesia (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q05CQy1JbmRvbmVzaWE/manifest.mpd"
+ ],
+ "SindoNews (V+)": [
+  "https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd"
+ ],
+ "RTV (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/cnR2IENobmw/manifest.mpd"
+ ],
+ "Nusantara TV (ChannelFeed)": [
+  "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
+  "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+ ],
+ "IDX (V+)": [
+  "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd"
+ ],
+ "Berita Satu (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/QmVyaXRhIFNhdHU/manifest.mpd"
+ ],
+ "BN Channel (ChannelFeed)": [
+  "https://flv.intechmedia.net/live/ch112.m3u8?",
+  "https://flv.intechmedia.net/live/ch112.m3u8?"
+ ],
+ "SCTV (DASH/MPD)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/sctv/sctv-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "Animax (Maxstream)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/animax/animax-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "Mentari TV (Vidio)": [
+  "https://vidsemar.pages.dev/terraluna2/8237.mpd",
+  "https://aspaltvpasti.top/11111/8237.mpd"
+ ],
+ "Jogja Istimewa TV (720p)": [
+  "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
+  "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
+  "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
+  "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
+  "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8"
+ ],
+ "JTV (480p)": [
+  "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8"
+ ],
+ "Kawanua TV (720p)": [
+  "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/KAWANUATV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Kilisuci TV": [
+  "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8"
+ ],
+ "PONTV (720p)": [
+  "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/PONTV/_definst_/myStream/playlist.m3u8"
+ ],
+ "HitsMovies (Maxstream)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/hitsmovie/hitsmovie-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "Celestial Movies (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Q2VsZXN0aWFsIE1vdmllcw/manifest.mpd"
+ ],
+ "Dunia Lain (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/RHVuaWEgTGFpbg/manifest.mpd"
+ ],
+ "Insert (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/IW5zZXJ0/manifest.mpd"
+ ],
+ "BIOSKOP INDONESIA (Transcorp)": [
+  "https://cdnjktcyber05.transvision.co.id/riutx01-439abf566997b187117993103dfd8508/dash/Qmlvc2tvcCBJbmRvbmVzaWE/manifest.mpd"
+ ],
+ "Flik": [
+  "http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzRmc5clJBTG9XQ2huYTFZZVpTVVBDVA",
+  "http://filex.me:8080/akkvdGtMUWkvVnMvaWx3V2hXa2NaZy9CTmYrVG13Z0pQVjFaRjhoMzNzRmc5clJBTG9XQ2huYTFZZVpTVVBDVA"
+ ],
+ "Vision Prime (V+)": [
+  "https://d43tg978oium5.cloudfront.net/out/v1/873c24d3946048f68e459250f1d2fd98/index.mpd"
+ ],
+ "Entertainment (V+)": [
+  "https://d2xx73ro32cip.cloudfront.net/out/v1/a90cb773466446b08595007bab12b920/index.mpd"
+ ],
+ "Food Travel (V+)": [
+  "https://d2gr3zenqo3tg4.cloudfront.net/out/v1/77d7eac1b90247ac9aa745bd2eb47fa8/index.mpd"
+ ],
+ "LIFE (V+)": [
+  "https://d2xx73ro32cip.cloudfront.net/out/v1/a61250017f23459692bf28a6841cf087/index.mpd"
+ ],
+ "Channel News Asia": [
+  "https://tglmp03.akamaized.net/out/v1/43856347987b4da3890360b0d18b5dc5/manifest.mpd"
+ ],
+ "Stara TV Bandung (1080p)": [
+  "https://bandung.staratv.id/hls/0/stream.m3u8",
+  "https://bandung.staratv.id/hls/0/stream.m3u8",
+  "https://bandung.staratv.id/hls/0/stream.m3u8",
+  "https://bandung.staratv.id/hls/0/stream.m3u8",
+  "https://bandung.staratv.id/hls/0/stream.m3u8"
+ ],
+ "SMTV (720p) [Not 24/7]": [
+  "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/SMTV/_definst_/myStream/playlist.m3u8"
+ ],
+ "TVRI Aceh (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8"
+ ],
+ "TVRI Bali (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8"
+ ],
+ "TVRI Bangka Belitung (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8"
+ ],
+ "TVRI Bengkulu (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8"
+ ],
+ "TVRI Gorontalo (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8"
+ ],
+ "TVRI Jambi (720p) [Not 24/7]": [
+  "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8"
+ ],
+ "TVRI Jawa Barat (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8"
+ ],
+ "TVRI Jawa Tengah (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8"
+ ],
+ "TVRI Jawa Timur (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
+ ],
+ "TVRI Kalimantan Barat (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8"
+ ],
+ "TVRI Kalimantan Selatan (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8"
+ ],
+ "TVRI Kalimantan Tengah (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8"
+ ],
+ "TVRI Kalimantan Timur (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8"
+ ],
+ "TVRI Lampung (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8"
+ ],
+ "TVRI Maluku (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8"
+ ],
+ "TVRI North Sulawesi (1080p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8"
+ ],
+ "TVRI North Sumatra (1080p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8"
+ ],
+ "TVRI Nusa Tenggara Barat (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8"
+ ],
+ "TVRI Nusa Tenggara Timur (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8"
+ ],
+ "TVRI Papua (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8"
+ ],
+ "TVRI Riau (720p) [Not 24/7]": [
+  "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8"
+ ],
+ "TVRI Sulawesi Barat (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8"
+ ],
+ "TVRI Sulawesi Selatan (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8"
+ ],
+ "TVRI Sulawesi Tengah (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8"
+ ],
+ "TVRI Sulawesi Tenggara (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8"
+ ],
+ "TVRI Sumatera Barat (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8"
+ ],
+ "TVRI Sumatera Selatan (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8"
+ ],
+ "TVRI West Papua (1080p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8"
+ ],
+ "TVRI Yogyakarta (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8"
+ ],
+ "AFBTV Kupang (1080p) [Not 24/7]": [
+  "https://afbtv.siar.us/live/afbtv.m3u8",
+  "https://afbtv.siar.us/live/afbtv.m3u8",
+  "https://afbtv.siar.us/live/afbtv.m3u8"
+ ],
+ "AKTV (1080p) [Not 24/7]": [
+  "https://akativi.siar.us/live/akativi.m3u8",
+  "https://akativi.siar.us/live/akativi.m3u8"
+ ],
+ "Al Wafa Tarim (720p)": [
+  "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
+ ],
+ "Al-Bahjah TV (1080p)": [
+  "http://202.150.161.117:8000/play/AlBahjahTV",
+  "http://202.150.161.117:8000/play/AlBahjahTV",
+  "http://202.150.161.117:8000/play/AlBahjahTV"
+ ],
+ "Al-Iman TV (Indonesia) (720p)": [
+  "https://tv.aliman.id/aliman/live.m3u8"
+ ],
+ "like Gecko) Chrome/65.0.3325.181 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",ANTV (720p)": [
+  "http://103.58.160.157:8278/720-ANTV/playlist.m3u8",
+  "http://103.58.160.157:8278/720-ANTV/playlist.m3u8"
+ ],
+ "Astha TV (1080p) [Not 24/7]": [
+  "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+  "https://hgmtv.com:19360/asthatv/asthatv.m3u8",
+  "https://hgmtv.com:19360/asthatv/asthatv.m3u8"
+ ],
+ "Astro Blitar TV (720p)": [
+  "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/abtv/abtv/playlist.m3u8"
+ ],
+ "Banjar TV (720p) [Not 24/7]": [
+  "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
+  "https://banjartv.siar.us/banjartv/live/playlist.m3u8"
+ ],
+ "Banten TV (720p) [Not 24/7]": [
+  "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8"
+ ],
+ "Batam TV (480p) [Not 24/7]": [
+  "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/BATAMTV/_definst_/myStream/playlist.m3u8"
+ ],
+ "BeritaSatu (1080p)": [
+  "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8",
+  "https://xtdslboppkkv-pull.bpmedialive.com/live/beritasatu/abr.m3u8"
+ ],
+ "Biznet Adventure (1080p)": [
+  "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
+  "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8",
+  "http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.m3u8"
+ ],
+ "Biznet Kids (1080p)": [
+  "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
+  "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8",
+  "http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8"
+ ],
+ "Biznet Lifestyle (1080p)": [
+  "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+  "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8",
+  "http://livestream.biznetvideo.net/biznet_lifestyle/smil:lifestyle.smil/index.m3u8"
+ ],
+ "BMS TV (720p) [Not 24/7]": [
+  "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8"
+ ],
+ "BN Channel (1080p)": [
+  "http://ikitv.sqn.at:8000/play/a01l/index.m3u8",
+  "http://ikitv.sqn.at:8000/play/a01l/index.m3u8"
+ ],
+ "BRTV (Indonesia) (720p)": [
+  "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Berita dan Informasi\",BTV (Indonesia) [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8"
+ ],
+ "Bungo TV (480p) [Not 24/7]": [
+  "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8"
+ ],
+ "Caruban TV (1080p)": [
+  "https://stream.carubantv.id/hls/0/stream.m3u8",
+  "https://stream.carubantv.id/hls/0/stream.m3u8",
+  "https://stream.carubantv.id/hls/0/stream.m3u8"
+ ],
+ "Celebes TV [Not 24/7]": [
+  "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8",
+  "https://ams.juraganstreaming.com:5443/LiveApp/streams/celebesmedia.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Channel Jowo [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h77/index.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Dens Food Channel [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Dens Knowledge [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Dens Life & Style [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Dens Play [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h225/index.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Dens ShowBiz [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8"
+ ],
+ "Dhamma TV (720p) [Not 24/7]": [
+  "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
+  "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8"
+ ],
+ "Dhoho TV (720p)": [
+  "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
+  "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8"
+ ],
+ "Duta TV (360p) [Not 24/7]": [
+  "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
+  "https://dutatv.siar.us/dutatv/live/playlist.m3u8"
+ ],
+ "Efarina TV (720p)": [
+  "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
+  "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8",
+  "https://live.efarinatv.com/hls/bgtaufikganteng.m3u8"
+ ],
+ "Fajar TV (720p) [Not 24/7]": [
+  "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/FAJARTV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Ficom Channel (720p)": [
+  "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
+  "https://v3.siar.us/ficomchannel/live/playlist.m3u8",
+  "https://v3.siar.us/ficomchannel/live/playlist.m3u8"
+ ],
+ "Garuda TV (1080p)": [
+  "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
+  "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8",
+  "https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8"
+ ],
+ "Groovia Kanal (576p)": [
+  "https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8",
+  "https://gist.githubusercontent.com/iptvonlinetv/02d209207082846012c15305f7471c55/raw/4439b54b986e696e6fcfba7a53380d85b27bbbc1/udp450.500.723:6050.m3u8"
+ ],
+ "Groovia Kids (576p)": [
+  "https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8",
+  "https://gist.githubusercontent.com/iptvonlinetv/244b66c61f162a7c0c2b4fa59b528139/raw/2376b7ba1989ebbd383301ec7d645e222a6c9338/udp780.510.345:4545.m3u8"
+ ],
+ "GTV (Indonesia) HD": [
+  "https://mncmedia.malingtv.workers.dev/gtv.m3u8"
+ ],
+ "Huma Betang TV (720p) [Not 24/7]": [
+  "https://v3.siar.us/humabetangtv/live/playlist.m3u8",
+  "https://v3.siar.us/humabetangtv/live/playlist.m3u8"
+ ],
+ "Indonesiana.TV (720p)": [
+  "https://tvstreamcast.com/indonesiana.m3u8",
+  "https://tvstreamcast.com/indonesiana.m3u8"
+ ],
+ "iNews HD (720p)": [
+  "https://mncmedia.malingtv.workers.dev/inews.m3u8",
+  "https://mncmedia.malingtv.workers.dev/inews.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Jak TV [Geo-blocked]": [
+  "https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8",
+  "https://op-group1-swiftservesd-1.dens.tv/s/s123/index2.m3u8"
+ ],
+ "Jek TV (720p) [Not 24/7]": [
+  "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8",
+  "http://27.124.81.245:1935/jektv/myStream/playlist.m3u8"
+ ],
+ "Jogja TV (720p) [Not 24/7]": [
+  "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8",
+  "https://stream.jogjatv.co.id/jtvlive/stream/index.m3u8"
+ ],
+ "JTV (720p)": [
+  "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8"
+ ],
+ "JTV Kediri (1080p) [Not 24/7]": [
+  "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
+ ],
+ "JTV Madura (480p) [Not 24/7]": [
+  "http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/JTVMADURA/_definst_/myStream/playlist.m3u8"
+ ],
+ "Kids TV": [
+  "http://origin5.mediacdn.ru/live/kidstv/index.m3u8",
+  "http://origin5.mediacdn.ru/live/kidstv/index.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Berita dan Informasi\",Kompas TV [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8"
+ ],
+ "KTV (Indonesia) (720p)": [
+  "https://flv.intechmedia.net/live/ch118.m3u8"
+ ],
+ "Madu TV (1080p) [Not 24/7]": [
+  "https://re1.siar.us/madutv/hd720/playlist.m3u8",
+  "https://re1.siar.us/madutv/hd720/playlist.m3u8"
+ ],
+ "Magna Channel (1080p) [Not 24/7]": [
+  "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+  "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
+  "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8"
+ ],
+ "MDTV (1080p)": [
+  "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8",
+  "https://wahyu1ptv.pages.dev/MDTV-HD.m3u8"
+ ],
+ "Metro TV (Indonesia)": [
+  "https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8"
+ ],
+ "MGI TV (720p) [Geo-blocked]": [
+  "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8",
+  "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8"
+ ],
+ "MGSTV (360p) [Not 24/7]": [
+  "https://mgstv.siar.us/live/mgstv.m3u8",
+  "https://mgstv.siar.us/live/mgstv.m3u8",
+  "https://mgstv.siar.us/live/mgstv.m3u8"
+ ],
+ "MNCTV HD (720p)": [
+  "https://mncmedia.malingtv.workers.dev/mnctv.m3u8",
+  "https://mncmedia.malingtv.workers.dev/mnctv.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Moji [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8"
+ ],
+ "MQTV (720p) [Not 24/7]": [
+  "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8"
+ ],
+ "Music Information Channel (720p)": [
+  "https://mic.siar.us/mic/live/mic.m3u8",
+  "https://mic.siar.us/mic/live/mic.m3u8",
+  "https://mic.siar.us/mic/live/mic.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",My Cinema [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h192/index.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",My Family [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h194/index.m3u8"
+ ],
+ "My Kidz (720p)": [
+  "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd",
+  "https://cdn10jtedge.indihometv.com/atm/DASH/mykids/manifest.mpd"
+ ],
+ "Naajiya TV (720p)": [
+  "https://www.naajiyatv.com/live/livestream.m3u8",
+  "https://www.naajiyatv.com/live/livestream.m3u8",
+  "https://www.naajiyatv.com/live/livestream.m3u8"
+ ],
+ "Nabawi TV (720p)": [
+  "http://202.150.161.117:8000/play/NabawiTV",
+  "http://202.150.161.117:8000/play/NabawiTV",
+  "http://202.150.161.117:8000/play/NabawiTV"
+ ],
+ "Nusantara TV (1080p)": [
+  "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
+  "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8"
+ ],
+ "Online TV Nusantara (720p) [Not 24/7]": [
+  "https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/onlinetvnusantara/onlinetvnusantara/playlist.m3u8"
+ ],
+ "Padang TV (720p) [Not 24/7]": [
+  "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/PADANGTV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Puja TV Aceh (1080p) [Not 24/7]": [
+  "https://pujatv.siar.us/live/pujatv.m3u8",
+  "https://pujatv.siar.us/live/pujatv.m3u8",
+  "https://pujatv.siar.us/live/pujatv.m3u8"
+ ],
+ "Radar Lampung TV (480p)": [
+  "https://www.streaming.radartv.co.id/hls/test.m3u8",
+  "https://www.streaming.radartv.co.id/hls/test.m3u8"
+ ],
+ "Radar Tasikmalaya TV (720p) [Not 24/7]": [
+  "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8",
+  "https://v2.siar.us/radartasikmalaya/live/playlist.m3u8"
+ ],
+ "Rajawali TV (576i)": [
+  "http://175.158.57.130:8888/stream/channelid/412436804",
+  "http://175.158.57.130:8888/stream/channelid/412436804"
+ ],
+ "RCTI HD (720p)": [
+  "https://mncmedia.malingtv.workers.dev/rcti.m3u8",
+  "https://mncmedia.malingtv.workers.dev/rcti.m3u8"
+ ],
+ "RCTV (Indonesia) (720p) [Not 24/7]": [
+  "https://v10.siar.us/rctv/live/playlist.m3u8"
+ ],
+ "Riau TV (1080p) [Not 24/7]": [
+  "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/RIAUTV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Rodja TV (720p)": [
+  "https://rodjatv.com/rodjatv/live.m3u8",
+  "https://rodjatv.com/rodjatv/live.m3u8",
+  "https://rodjatv.com/rodjatv/live.m3u8"
+ ],
+ "Salira TV (720p)": [
+  "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+  "https://live.salira.tv/p/3870/hybrid/play.m3u8",
+  "https://live.salira.tv/p/3870/hybrid/play.m3u8"
+ ],
+ "Sampit TV (720p) [Not 24/7]": [
+  "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
+  "https://sampit-tv.siar.us/live/sampit-tv.m3u8",
+  "https://sampit-tv.siar.us/live/sampit-tv.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",SCTV [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8"
+ ],
+ "Selaparang TV (720p) [Not 24/7]": [
+  "https://selaparangtv.siar.us/live/selaparangtv.m3u8",
+  "https://selaparangtv.siar.us/live/selaparangtv.m3u8"
+ ],
+ "Semarang TV (720p)": [
+  "http://116.254.112.74/hls/cakralive.m3u8",
+  "http://116.254.112.74/hls/cakralive.m3u8"
+ ],
+ "Simpang5 TV (360p) [Not 24/7]": [
+  "http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/SIMPANG5TV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Sriwijaya TV (720p) [Not 24/7]": [
+  "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
+  "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8",
+  "https://sriwijayatv.siar.us/live/sriwijayatv.m3u8"
+ ],
+ "Stara TV (720p)": [
+  "https://stream.staratv.id/hls/0/stream.m3u8",
+  "https://stream.staratv.id/hls/0/stream.m3u8",
+  "https://stream.staratv.id/hls/0/stream.m3u8"
+ ],
+ "Stara TV Cianjur (720p)": [
+  "https://cianjur.staratv.id/hls/0/stream.m3u8",
+  "https://cianjur.staratv.id/hls/0/stream.m3u8",
+  "https://cianjur.staratv.id/hls/0/stream.m3u8"
+ ],
+ "Stara TV Malang (1080p)": [
+  "https://malang.staratv.id/hls/0/stream.m3u8",
+  "https://malang.staratv.id/hls/0/stream.m3u8",
+  "https://malang.staratv.id/hls/0/stream.m3u8"
+ ],
+ "STV (Indonesia) (720p) [Not 24/7]": [
+  "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Suara Surabaya Visual Radio (720p)": [
+  "https://ssfm.siar.us/ssfm/live/playlist.m3u8"
+ ],
+ "Sultra TV (720p) [Not 24/7]": [
+  "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/SULTRATV/_definst_/myStream/playlist.m3u8"
+ ],
+ "TATV (720p) [Not 24/7]": [
+  "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
+  "https://v2.siar.us/tatv/live.sdp/playlist.m3u8",
+  "https://v2.siar.us/tatv/live.sdp/playlist.m3u8"
+ ],
+ "Tegar TV Lampung (480p)": [
+  "http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8",
+  "http://wms.klikhost.com:1935/tegartv/tegartv/playlist.m3u8"
+ ],
+ "TV 9 Nusantara (720p)": [
+  "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8"
+ ],
+ "TV Mu (720p) [Not 24/7]": [
+  "https://e.siar.us/live/tvmu.m3u8",
+  "https://e.siar.us/live/tvmu.m3u8"
+ ],
+ "TV Tabalong (720p) [Not 24/7]": [
+  "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",tvOne [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8",
+  "https://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8"
+ ],
+ "TVR Parlemen (720p) [Not 24/7]": [
+  "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
+  "http://103.18.181.69:1935/golive/livestream/playlist.m3u8",
+  "http://103.18.181.69:1935/golive/livestream/playlist.m3u8"
+ ],
+ "TVRI (1080i)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8"
+ ],
+ "TVRI Central Java (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8"
+ ],
+ "TVRI Central Kalimantan (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8"
+ ],
+ "TVRI Central Sulawesi (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8"
+ ],
+ "TVRI East Java (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8"
+ ],
+ "TVRI East Kalimantan (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8"
+ ],
+ "TVRI East Nusa Tenggara (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8"
+ ],
+ "TVRI Jakarta (576i) [Not 24/7]": [
+  "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",TVRI SD (480p) [Geo-blocked]": [
+  "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8"
+ ],
+ "TVRI South Kalimantan (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8"
+ ],
+ "TVRI South Sulawesi (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8"
+ ],
+ "TVRI South Sumatra (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8"
+ ],
+ "TVRI Southeast Sulawesi (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8"
+ ],
+ "TVRI West Java (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8"
+ ],
+ "TVRI West Kalimantan (480p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8"
+ ],
+ "TVRI West Nusa Tenggara (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8"
+ ],
+ "TVRI West Sulawesi (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8"
+ ],
+ "TVRI West Sumatra (720p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Olahraga\",TVRI Sport [Geo-blocked]": [
+  "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8",
+  "https://op-group1-swiftservesd-1.dens.tv/s/s107/index.m3u8"
+ ],
+ "TVRI World (1080p)": [
+  "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
+  "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8"
+ ],
+ "VTV (Indonesia) (720p)": [
+  "https://flv.intechmedia.net/live/ch107.m3u8"
+ ],
+ "VTV (Indonesia) HD (1080p)": [
+  "http://ikitv.sqn.at:8000/play/a023/index.m3u8"
+ ],
+ "RTV / Rajawali TV": [
+  "https://rtvstream.rtv.co.id:4555/hls/rtv.m3u8"
+ ],
+ "BeritaSatu": [
+  "https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008r/srtoutput/manifest.m3u8",
+  "https://op-flashcon-digdayaxenkoda.dens.tv/3118a881-f091-4bd1-b479-3096e823e3ec/v0/stream.m3u8"
+ ],
+ "RRI Net": [
+  "https://private-streaming.rri.go.id/memfs/6f77c7b5-feb2-4935-9f89-e7e9fca0a54a_output_0.m3u8"
+ ],
+ "JTV Surabaya": [
+  "http://122.248.43.242:1935/JTVSURABAYA/_definst_/myStream/playlist.m3u8"
+ ],
+ "Banten TV": [
+  "https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8"
+ ],
+ "Banyumas TV": [
+  "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8"
+ ],
+ "AFBTV Kupang": [
+  "https://afbtv.siar.us/live/afbtv.m3u8"
+ ],
+ "RCTI (Vision+)": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd"
+ ],
+ "MNCTV (Vision+)": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd"
+ ],
+ "GTV (Vision+)": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551ab/index.mpd"
+ ],
+ "iNews (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=4"
+ ],
+ "Trans TV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d210096/manifest.mpd"
+ ],
+ "Trans 7 (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0db0bf0097/manifest.mpd"
+ ],
+ "CNBC Indonesia (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c68565fa79ce01665868040a343f/manifest.mpd"
+ ],
+ "BN Channel (720p)": [
+  "https://flv.intechmedia.net/live/ch112.m3u8"
+ ],
+ "SindoNews TV (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=5"
+ ],
+ "Insan TV": [
+  "https://flv.intechmedia.net/live/ch1.m3u8?chcat=FTA&md5=Ao7_KPpGl1MEiZCDSkEaSg&expires=1751171808"
+ ],
+ "MTA TV": [
+  "https://cdnbal1.indihometv.com/atm/DASH/mtatv/manifest.mpd"
+ ],
+ "Salam TV (1080p)": [
+  "https://salamtv.siar.us/live/salamtv.m3u8"
+ ],
+ "Timor TV (1080p)": [
+  "http://122.248.43.242:1935/TIMORTV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Al-Iman TV": [
+  "https://flv.intechmedia.net/live/ch9.m3u8"
+ ],
+ "Al-Iman TV (720p)": [
+  "https://tv.aliman.id/aliman/live.m3u8",
+  "https://tv.aliman.id/aliman/live.m3u8"
+ ],
+ "Alwafa Tarim TV (Am Media) (720p)": [
+  "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
+  "https://ammedia.siar.us/ammedia/live/playlist.m3u8"
+ ],
+ "ANTV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e7220c5b63/manifest.mpd"
+ ],
+ "ANTV (Vidio)": [
+  "https://nextgenz.my.id/event/pidio/play.mpd?id=782&type=dash"
+ ],
+ "ANTV (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=10"
+ ],
+ "Bandung TV V+": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/f16b53f0d5ed459da208c459049c9bb0/index.mpd"
+ ],
+ "BeritaSatu (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cd06bed442f/manifest.mpd"
+ ],
+ "Bri Super League (Vidio 1)": [
+  "https://tvratu.my.id/vid/index.mpd?id=205&type=dash"
+ ],
+ "Bri Super League (Vidio 2)": [
+  "https://tvratu.my.id/vid/index.mpd?id=19353&type=dash"
+ ],
+ "Bri Super League (Vidio 3)": [
+  "https://tvratu.my.id/vid/index.mpd?id=19385&type=dash"
+ ],
+ "Bri Super League (Vidio 4)": [
+  "https://tvratu.my.id/vid/index.mpd?id=19354&type=dash"
+ ],
+ "Bri Super League (Vidio 5)": [
+  "https://nextgenz.my.id/event/pidio/play.mpd?id=205&type=dash"
+ ],
+ "BRTV (720p)": [
+  "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8",
+  "https://5bf7b725107e5.streamlock.net/brtv/brtv/playlist.m3u8"
+ ],
+ "BTV (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/beritasatu/beritasatu-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "BTV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729c80f0d63bfc/manifest.mpd"
+ ],
+ "BTV (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=15"
+ ],
+ "CNN Indonesia (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c685651d7bcc01651f0e4ce10098/manifest.mpd"
+ ],
+ "DM TV Malang": [
+  "https://e.siar.us/live/dmtv.m3u8"
+ ],
+ "Fight Sports": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd"
+ ],
+ "Garuda TV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6859645ee4801965cf102264bf3/manifest.mpd"
+ ],
+ "GTV (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/globaltv/globaltv-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "GTV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd"
+ ],
+ "GTV (Vidio)": [
+  "http://tvratu.my.id/index.mpd?id=778&type=dash"
+ ],
+ "IDX Channel (Vision+)": [
+  "https://d2xx73ro32cip.cloudfront.net/out/v1/db34a1b61f414d2181c29f1892bc8d0b/index.mpd"
+ ],
+ "Indosiar (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd"
+ ],
+ "Indosiar (Vision+)": [
+  "https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd"
+ ],
+ "iNews (Vidio)": [
+  "https://ratuvidio.nissa/index.mpd?id=5409&type=dash"
+ ],
+ "Izzah TV (480p)": [
+  "https://streaming.radiosalamjambi.com/izzahtv.m3u8"
+ ],
+ "Jagantara TV": [
+  "https://flv.intechmedia.net/live/ch119.m3u8"
+ ],
+ "JTV Kediri": [
+  "http://122.248.43.242:1935/JTVKEDIRI/_definst_/myStream/playlist.m3u8"
+ ],
+ "Jupnas Gizi (MBG TV)": [
+  "https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8"
+ ],
+ "Kompas TV (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/KOMPAS_TV/KOMPAS_TV-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "Kompas TV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd"
+ ],
+ "Kompas TV (Vidio)": [
+  "https://nextgenz.my.id/event/pidio/play.mpd?id=874&type=dash"
+ ],
+ "Kompas TV (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=13"
+ ],
+ "KTV (720p)": [
+  "https://flv.intechmedia.net/live/ch118.m3u8",
+  "https://flv.intechmedia.net/live/ch118.m3u8"
+ ],
+ "Madinah Live (Saudi Arabia)": [
+  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-sunna-tv/4c4285a859e7a6e9772b0c82a8095dc9/index.mpd"
+ ],
+ "Makkah Live (Saudi Arabia)": [
+  "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-quran-tv/5ade268066b7ec605d753d973d37e0e5/index.mpd"
+ ],
+ "MDTV (BN Channel)": [
+  "http://157.15.187.3:25092/hls/44/44.m3u8"
+ ],
+ "MDTV (TransVision)": [
+  "http://202.150.161.212:5000/live/channel31/playlist.m3u8"
+ ],
+ "MDTV (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=23"
+ ],
+ "MetroTV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd"
+ ],
+ "MetroTV (Vidio)": [
+  "https://nextgenz.my.id/event/pidio/play.mpd?id=777&type=dash"
+ ],
+ "MetroTV (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=14"
+ ],
+ "MNCTV (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/mnctv/mnctv-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "MNCTV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd"
+ ],
+ "MNCTV (Vidio)": [
+  "http://tvratu.my.id/nissa/index.mpd?id=870&type=dash"
+ ],
+ "Moji (TransVision)": [
+  "http://202.150.161.212:5000/live/channel39/playlist.m3u8"
+ ],
+ "Moji (Vidio)": [
+  "http://tvratu.my.id/nissa/index.mpd?id=206&type=dash"
+ ],
+ "Moji (Vision+)": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd"
+ ],
+ "Nusantara TV (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "Pegadaian Championship (Vidio 1)": [
+  "https://tvratu.my.id/vid/index.mpd?id=19541&type=dash"
+ ],
+ "Pegadaian Championship (Vidio 3)": [
+  "https://tvratu.my.id/vid/index.mpd?id=20833&type=dash"
+ ],
+ "Pegadaian Championship (Vidio 4)": [
+  "https://tvratu.my.id/vid/index.mpd?id=19883&type=dash"
+ ],
+ "Pegadaian Championship (Vidio 6)": [
+  "https://tvratu.my.id/vid/index.mpd?id=19542&type=dash"
+ ],
+ "Pegadaian Championship(Vidio 2)": [
+  "https://tvratu.my.id/vid/index.mpd?id=19543&type=dash"
+ ],
+ "Pegadaian Championshipe (Vidio 5)": [
+  "https://tvratu.my.id/vid/index.mpd?id=19584&type=dash"
+ ],
+ "RCTI (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/rcti/rcti-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "RCTI (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e825832393/manifest.mpd"
+ ],
+ "RCTI (Vidio)": [
+  "http://tvratu.my.id/nissa/index.mpd?id=665&type=dash"
+ ],
+ "RTV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce4a1343c17/manifest.mpd"
+ ],
+ "RTV (Vidio)": [
+  "https://beetv.my.id/stream/vd.m3u8?ch=rtv"
+ ],
+ "RTV (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=11"
+ ],
+ "NEX": [
+  "http://202.169.224.202:8800/udp/239.9.1.29:1234"
+ ],
+ "SCTV (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd"
+ ],
+ "Sin Po TV (Vidio)": [
+  "http://tvratu.my.id/nissa/index.mpd?id=19046&type=dash"
+ ],
+ "SindoNews ID": [
+  "https://cdnbal1.indihometv.com/atm/DASH/mncnews/mncnews-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "Sportstars 3": [
+  "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd"
+ ],
+ "STV (720p) [Not 24/7]": [
+  "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8",
+  "http://122.248.43.242:1935/SAMARINDATV/_definst_/myStream/playlist.m3u8"
+ ],
+ "Tribunnews.Com": [
+  "https://d1zhs9dfs6uqpg.cloudfront.net/hls/X16J4FID/X16J4FID_720p30.m3u8"
+ ],
+ "TvOne (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/tvone/tvone-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "TvOne (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/108/2c9f9082998232e0019b35e58e2f5b62/manifest.mpd"
+ ],
+ "TvOne (Vidio)": [
+  "https://nextgenz.my.id/event/pidio/play.mpd?id=783&type=dash"
+ ],
+ "TvOne (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=12"
+ ],
+ "TVRI Nasional (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/TVRI/TVRI-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "TVRI Nasional (TransVision)": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd"
+ ],
+ "TVRI Nasional (Vidio)": [
+  "https://nextgenz.my.id/event/pidio/play.mpd?id=6441&type=dash"
+ ],
+ "TVRI Nasional (Vision+)": [
+  "https://ayo.maling.pl/Vision/index.mpd?id=16"
+ ],
+ "TVRI World (Max Stream TV)": [
+  "https://cdnbal1.indihometv.com/atm/DASH/tvriworld/tvriworld-avc1_2500000=7-3277707030000000.mpd"
+ ],
+ "RTB Sukmaindera": [
+  "https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8"
+ ],
+ "RTB Aneka": [
+  "https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8"
+ ],
+ "RTB Go Live": [
+  "https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8"
+ ],
+ "MSJ TV": [
+  "https://live.dtvhd.com/LiveApp/streams/MSJTV_hd_playlist.m3u8"
+ ],
+ "EAC News": [
+  "https://live.eac-news.com/LiveApp/streams/eacnews.m3u8"
+ ],
+ "TVK": [
+  "https://live.kh.malimarcdn.com/live/tvk.stream/chunklist.m3u8"
+ ],
+ "TVK 2": [
+  "https://live.kh.malimarcdn.com/live/tvk2.stream/chunklist.m3u8"
+ ],
+ "NTV": [
+  "https://stream.pdtvhd.com/LiveApp/streams/ntvhd.m3u8"
+ ],
+ "Astro Citra": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/388746"
+ ],
+ "Sukan RTM": [
+  "https://bintangstreaming.my.id/1kds/kds_tes.php/.m3u8?id=rtm-sports-hd"
+ ],
+ "Astro Ceria": [
+  "https://cf.perfecttv.net/rwt.m3u8?username=vip_0qqkjlcn&password=WzTwvgxl&channel=ceria"
+ ],
+ "Astro Ria": [
+  "https://cf.perfecttv.net/rwt.m3u8?username=vip_0qqkjlcn&password=WzTwvgxl&channel=ria"
+ ],
+ "Jom Ngaji": [
+  "https://b27a6dd8a86c3e4ba93fbae22aaaac64.pmqrop.channel-assembly.mediatailor.ap-southeast-1.amazonaws.com/v1/channel/FAST_6/dash.mpd"
+ ],
+ "ANTV Digital 1": [
+  "http://157.15.187.3:25092/hls/45/45.m3u8"
+ ],
+ "ANTV Digital 2": [
+  "http://iptv.kilas7.com:80/live/kaukia/asdfrewq/7.m3u8"
+ ],
+ "Trans 7 Digital 1": [
+  "http://157.15.187.3:25092/hls/42/42.m3u8"
+ ],
+ "Trans 7 Digital 2": [
+  "http://iptv.kilas7.com/live/kaukia/asdfrewq/4.m3u8"
+ ],
+ "Trans TV Digital 1": [
+  "http://157.15.187.3:25092/hls/43/43.m3u8"
+ ],
+ "Trans TV Digital 2": [
+  "http://iptv.kilas7.com/live/kaukia/asdfrewq/3.m3u8"
+ ],
+ "Indosiar Digital 1": [
+  "http://157.15.187.3:25092/hls/56/56.m3u8"
+ ],
+ "Indosiar Digital 3": [
+  "https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C8-1Z2Rp7JvQhncgXXsV4UVM/ts"
+ ],
+ "Indosiar Digital 4": [
+  "https://s.id/Shareext_liga1_m3u8"
+ ],
+ "SCTV Digital 1": [
+  "http://157.15.187.3:25092/hls/55/55.m3u8"
+ ],
+ "MNCTV Digital 1": [
+  "http://157.15.187.3:25092/hls/54/54.m3u8"
+ ],
+ "MNCTV Digital 2": [
+  "http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505855.ts"
+ ],
+ "MNCTV Digital 3": [
+  "https://tv.ngebutz.my.id/live/2359819BA55280038B6D0B1419EAFD37/7.ts"
+ ],
+ "TVRI Nasional Digital 1": [
+  "http://157.15.187.3:25092/hls/63/63.m3u8"
+ ],
+ "TVRI Nasional Digital 2": [
+  "http://103.170.100.42:6799/stream/channelid/21976998?profile=pass"
+ ],
+ "TVRI sport Digital 2": [
+  "http://103.170.100.42:6799/stream/channelid/1362840449?profile=pass"
+ ],
+ "Asean Cup (RCTI Digital)": [
+  "http://157.15.187.3:25092/hls/51/51.m3u8"
+ ],
+ "Asean Cup (MNCTV Digital)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350973"
+ ],
+ "Asean Cup (GTV Digital 1)": [
+  "http://157.15.187.3:25092/hls/57/57.m3u8"
+ ],
+ "Asean Cup (GTV Digital 2)": [
+  "http://mag.king-4k.cc:80/live/C1645263A1D245C/1sFTVBSVCP/1505835.ts"
+ ],
+ "Asean Cup (iNews Digital)": [
+  "http://157.15.187.3:25092/hls/52/52.m3u8"
+ ],
+ "Persija TV": [
+  "https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd"
+ ],
+ "MUTV": [
+  "https://get.perfecttv.net/mutv.mpd"
+ ],
+ "Liverpool FC TV": [
+  "http://tv.cloudcdn.me:80/live.ts?channelId=128705&uid=3037&deviceMac=00:1A:79:0A:3B:2B"
+ ],
+ "Sporting TV": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/352937"
+ ],
+ "Benfica TV": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/352922"
+ ],
+ "Milan TV": [
+  "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/136467"
+ ],
+ "Sky Lazio Style Channel": [
+  "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/136474"
+ ],
+ "Betis TV": [
+  "http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/83026"
+ ],
+ "Kids TV V+": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd"
+ ],
+ "Music TV": [
+  "https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd"
+ ],
+ "CNN Brasil": [
+  "https://d25usgadhphvwi.cloudfront.net/hls/main.m3u8"
+ ],
+ "CN\u00d1 en Espa\u00f1ol": [
+  "http://45.228.234.30:16000/play/a00x/index.m3u8"
+ ],
+ "CNN News 18 India": [
+  "https://n18syndication.akamaized.net/bpk-tv/CNN_News18_NW18_MOB/output01/index.m3u8"
+ ],
+ "CNN international": [
+  "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+ ],
+ "CNN Usa": [
+  "https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8"
+ ],
+ "CNN Portugal": [
+  "https://github.com/thomraider12/canaistvpt/raw/main/m3u8s/cnnpt.m3u8?wowzasessionid=@iprtlk"
+ ],
+ "CNN Chile": [
+  "http://217.26.190.76:8888/play/a029/index.m3u8"
+ ],
+ "CNN T\u00fcrkiye": [
+  "http://wps5c7yt.rostelekom.xyz/iptv/LY9PHWZHRXA5SE/6926/index.m3u8"
+ ],
+ "CNBC Europe": [
+  "http://line.mytvzone.xyz:80/live/jCp4YyMfXc/nowo2O4ogJ/709012.m3u8"
+ ],
+ "CNBC": [
+  "http://rezofoot.tv/CNBC/index.m3u8"
+ ],
+ "CNBC-e T\u00fcrkiye": [
+  "https://hnpsechtsc.turknet.ercdn.net/xpnvudnlsv/cnbc-e/cnbc-e.m3u8?tv=1"
+ ],
+ "CNBC Asian": [
+  "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e8d3f81aae4b46fbacf545140b86f2c4/index.mpd"
+ ],
+ "CNBC Awaaz India": [
+  "https://n18syndication.akamaized.net/bpk-tv/CNBC_Awaaz_NW18_MOB/output01/index.m3u8"
+ ],
+ "CNBC Bajar India": [
+  "https://n18syndication.akamaized.net/bpk-tv/CNBC_Bazaar_NW18_MOB/output01/index.m3u8"
+ ],
+ "Sky Sport 1 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350469"
+ ],
+ "Sky Sport 2 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350470"
+ ],
+ "Sky Sport 3 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350471"
+ ],
+ "Sky Sport 4 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350472"
+ ],
+ "Sky Sport 5 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350473"
+ ],
+ "Sky Sport 6 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350474"
+ ],
+ "Sky Sport 7 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350475"
+ ],
+ "Sky Sport 8 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350476"
+ ],
+ "Sky Sport 9 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350477"
+ ],
+ "Sky Sport 10 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350478"
+ ],
+ "Sky Sport Bundesliga (Deutsch/Germany)": [
+  "http://redfoxx.vip/FG803300F12D2/ncWUsGr/608919"
+ ],
+ "Sky Sport Bundesliga 1 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350427"
+ ],
+ "Sky Sport Bundesliga 4 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350430"
+ ],
+ "Sky Sport Bundesliga 5 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350431"
+ ],
+ "Sky Sport Bundesliga 6 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350432"
+ ],
+ "Sky Sport Bundesliga 7 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350433"
+ ],
+ "Sky Sport Bundesliga 8 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350434"
+ ],
+ "Sky Sport Bundesliga 9 (Deutsch/Germany)": [
+  "http://opplextv.cyou:8080/nasir6160/nasir/350435"
+ ],
+ "Sky Sport Bundesliga10 (Deutsch/Germany)": [
+  "http://opplextv.cyou:/nasir6160/nasir/350436"
+ ],
+ "Sky Sport Mix (Deutsch/Germany)": [
+  "http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/310087"
+ ],
+ "Sky Sport News (Deutsch/Germany)": [
+  "http://nrvmobil.com:2095/kadir8502/8YmCgLty8yeh/165039"
+ ],
+ "Sky Sport Premier League (Deutsch/Germany)": [
+  "http://panel.pro2box.cc/456876/bpMnYZA/243798"
+ ],
+ "Sky Sport Top Event (Deutsch/Germany)": [
+  "http://wickediptv.xyz/Randall123/Randall321/275043"
+ ],
+ "Sky Sport Austria (Deutsch/Germany)": [
+  "http://iptv.watchhd.to:5050/didi1909/8mMDqRPor23t/136088"
+ ],
+ "Sky Sport Moto GP (Italia)": [
+  "http://wickediptv.xyz/Randall123/Randall321/285973"
+ ],
+ "Sky Sport Uno (Italia)": [
+  "http://redfoxx.vip/FG803300F12D2/ncWUsGr/614521"
+ ],
+ "Sky Sport Arena (Italia)": [
+  "http://wickediptv.xyz/Randall123/Randall321/285957"
+ ],
+ "Volleyball (Voli TV)": [
+  "http://157.15.187.3:25092/hls/2/2.m3u8"
+ ],
+ "Volleyball (Moji Digital 1)": [
+  "http://157.15.187.3:25092/hls/50/50.m3u8"
+ ],
+ "Volleyball (Moji Digital 2)": [
+  "https://tv.ngebutz.my.id:443/play/55c8cVrvhcFPEgTjgh2C85t_z0_MBwZtd69IGhbSfdg/ts"
+ ],
+ "Netherlands (Ziggo Sports 1)": [
+  "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069726.m3u8"
+ ],
+ "Netherlands (Ziggo Sports 2)": [
+  "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069725.m3u8"
+ ],
+ "Netherlands (Ziggo Sports 3)": [
+  "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069724.m3u8"
+ ],
+ "Netherlands (Ziggo Sports 4)": [
+  "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069723.m3u8"
+ ],
+ "Netherlands (Ziggo Sports 5)": [
+  "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069722.m3u8"
+ ],
+ "Netherlands (Ziggo Sports 6)": [
+  "https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/sp-s4-nuk/2069721.m3u8"
+ ],
+ "Malaysia (Astro Football)": [
+  "https://live1.kinxie.com/live/vrqwni4d8p5c4qn_678a8bd401a572b9c55f547594517b69_autoChange.m3u8?auth_key=1784723534-0-0-29ed6c084c5da95105007117b6e6d1d6"
+ ],
+ "United Kingdom (Premier Sports 1)": [
+  "http://89.187.179.148:826/anto.j/c9yJDcXyPe/98771"
+ ],
+ "United Kingdom (Premier Sports 2)": [
+  "http://rocketfx.uk:8080/henry/henry/357498"
+ ],
+ "Banyumas TV (720p) [Not 24/7]": [
+  "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"Berita dan Informasi\",BTV [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h129/S4/mnf.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",Dens Learning & Knowledge [Geo-blocked]": [
+  "https://op-group1-swiftservehd-1.dens.tv/h/h236/index.m3u8"
+ ],
+ "RCTV (720p) [Not 24/7]": [
+  "https://v10.siar.us/rctv/live/playlist.m3u8"
+ ],
+ "like Gecko Chrome/144.0.0.0 Safari/537.36\" group-title=\"TV Nasional dan Daerah\",TVRI (480p) [Geo-blocked]": [
+  "https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8"
+ ],
+ "VTV (720p)": [
+  "https://flv.intechmedia.net/live/ch107.m3u8"
+ ]
+}

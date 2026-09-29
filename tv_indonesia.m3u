@@ -1,4 +1,4 @@
-#EXTM3U generated-at="2026-09-29T17:16Z"
+#EXTM3U generated-at="2026-09-29T18:33Z"
 #EXTINF:-1 tvg-id="GTV.id@SD" tvg-name="GTV" tvg-chno="001" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_GTV-180x180_2025_11_06_13_07_56.jpg" group-title="MNC",GTV
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
@@ -62,228 +62,282 @@ https://ssfm.siar.us/ssfm/live/playlist.m3u8
 https://op-group1-densxvisionhd-1.dens.tv/h/h40/01.m3u8
 #EXTINF:-1 tvg-id="MAXSports.id@SD" tvg-name="MAX Sports" tvg-chno="025" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="Sports",MAX Sports
 https://cdnbal1.indihometv.com/atm/DASH/useesport/useesport-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-name="Thrill" tvg-chno="026" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png" group-title="Sports",Thrill
-https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-chno="027" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20201126072546" group-title="Movies",AXN
+#EXTINF:-1 tvg-id="PlutoTVCompetition.id" tvg-name="Pluto TV Competition" tvg-chno="026" group-title="Sports",Pluto TV Competition
+https://jmp2.uk/plu-603fde9026ecbf0007752c2c.m3u8
+#EXTINF:-1 tvg-id="PlutoTVESports.id" tvg-name="Pluto TV E-Sports" tvg-chno="027" group-title="Sports",Pluto TV E-Sports
+https://jmp2.uk/plu-5ff3934600d4c7000733ff49.m3u8
+#EXTINF:-1 tvg-id="TennisChannel.id" tvg-name="Tennis Channel" tvg-chno="028" group-title="Sports",Tennis Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischannelnl-samsungnl/playlist.m3u8
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-chno="029" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/AXN_2011.png/revision/latest?cb=20201126072546" group-title="Movies",AXN
 https://cdnbal1.indihometv.com/atm/DASH/axn/axn-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" tvg-chno="028" group-title="Movies",AXN Asia
+#EXTINF:-1 tvg-id="AXNAsia.sg" tvg-name="AXN Asia" tvg-chno="030" group-title="Movies",AXN Asia
 https://sra72yz.s.gy/AXN_ASIA_PHILIPPINES.m3u8
-#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" tvg-name="Zee Bioskop" tvg-chno="029" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png" group-title="Movies",Zee Bioskop
+#EXTINF:-1 tvg-id="GravitasMovies.id" tvg-name="Gravitas Movies" tvg-chno="031" group-title="Movies",Gravitas Movies
+https://d6dg3ebeih71x.cloudfront.net/Gravitas_Movies.m3u8
+#EXTINF:-1 tvg-id="HallmarkMoviesMore.id" tvg-name="Hallmark Movies & More" tvg-chno="032" group-title="Movies",Hallmark Movies & More
+https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991709
+#EXTINF:-1 tvg-id="MovieSphere.id" tvg-name="MovieSphere" tvg-chno="033" group-title="Movies",MovieSphere
+https://amg00353-lionsgatestudio-moviesphere-xumo-zh5u0.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ParamountMovieChannel.id" tvg-name="Paramount Movie Channel" tvg-chno="034" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/plu-5cb0cae7a461406ffe3f5213.m3u8
+#EXTINF:-1 tvg-id="ParamountPicks.id" tvg-name="Paramount+ Picks" tvg-chno="035" group-title="Movies",Paramount+ Picks
+https://jmp2.uk/plu-5ff8c708653d080007361b14.m3u8
+#EXTINF:-1 tvg-id="PlutoTVActionMovies.id" tvg-name="Pluto TV Action Movies" tvg-chno="036" group-title="Movies",Pluto TV Action Movies
+https://jmp2.uk/plu-62ea3c2e4823db00072788ed.m3u8
+#EXTINF:-1 tvg-id="PlutoTVComedyMovies.id" tvg-name="Pluto TV Comedy Movies" tvg-chno="037" group-title="Movies",Pluto TV Comedy Movies
+https://jmp2.uk/plu-62ea3d24b8e02600071fa296.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHorrorUnitedStates.id" tvg-name="Pluto TV Horror (United States" tvg-chno="038" group-title="Movies",Pluto TV Horror (United States
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1 tvg-id="PlutoTVThrillersUnitedStates.id" tvg-name="Pluto TV Thrillers (United States" tvg-chno="039" group-title="Movies",Pluto TV Thrillers (United States
+https://jmp2.uk/plu-5b4e69e08291147bd04a9fd7.m3u8
+#EXTINF:-1 tvg-id="StarTrekMovies.id" tvg-name="Star Trek Movies" tvg-chno="040" group-title="Movies",Star Trek Movies
+https://jmp2.uk/plu-6400c2a6cb41a40008dbe5bc.m3u8
+#EXTINF:-1 tvg-id="Thrill.hk@SD" tvg-name="Thrill" tvg-chno="041" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_thrill.png" group-title="Movies",Thrill
+https://cdnbal1.indihometv.com/atm/DASH/thrill/thrill-avc1_2500000=7-3277707030000000.mpd
+#EXTINF:-1 tvg-id="ZeeBioskop.id@SD" tvg-name="Zee Bioskop" tvg-chno="042" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_zeebioskop.png" group-title="Movies",Zee Bioskop
 https://cdnbal1.indihometv.com/atm/DASH/zbioskop/zbioskop-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-chno="030" tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png" group-title="Kids",Animax
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-chno="043" tvg-logo="https://w7.pngwing.com/pngs/386/630/png-transparent-animax-sony-yay-anime-television-sony-s-networks-india-ebay-korea-co-ltd-blue-text-trademark.png" group-title="Kids",Animax
 https://cdnbal1.indihometv.com/atm/DASH/animax/animax-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="MyKidz.id@SD" tvg-name="My Kidz" tvg-chno="031" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png" group-title="Kids",My Kidz
+#EXTINF:-1 tvg-id="MyKidz.id@SD" tvg-name="My Kidz" tvg-chno="044" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_mykidz.png" group-title="Kids",My Kidz
 https://cdnbal1.indihometv.com/atm/DASH/mykids/mykids-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="Dens Food Channel" tvg-name="Dens Food Channel" tvg-chno="032" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="Lifestyle",Dens Food Channel
+#EXTINF:-1 tvg-id="NickJrPlutoTV.id" tvg-name="Nick Jr. Pluto TV" tvg-chno="045" group-title="Kids",Nick Jr. Pluto TV
+https://jmp2.uk/plu-5ca6748a37b88b269472dad9.m3u8
+#EXTINF:-1 tvg-id="NickelodeonPlutoTV.id" tvg-name="Nickelodeon Pluto TV" tvg-chno="046" group-title="Kids",Nickelodeon Pluto TV
+https://jmp2.uk/plu-5ca673e0d0bd6c2689c94ce3.m3u8
+#EXTINF:-1 tvg-id="PlutoTVKids.id" tvg-name="Pluto TV Kids" tvg-chno="047" group-title="Kids",Pluto TV Kids
+https://jmp2.uk/plu-5f1214a637c6fd00079c652f.m3u8
+#EXTINF:-1 tvg-id="Dens Food Channel" tvg-name="Dens Food Channel" tvg-chno="048" tvg-logo="https://picture.dens.tv/wp/img/whatson_v2/1280x720/Logo%20DFC.png" group-title="Lifestyle",Dens Food Channel
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h221/02.m3u8
-#EXTINF:-1 tvg-id="auto.dens.learning.knowledge" tvg-name="Dens Learning & Knowledge" tvg-chno="033" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Lifestyle",Dens Learning & Knowledge
+#EXTINF:-1 tvg-id="auto.dens.learning.knowledge" tvg-name="Dens Learning & Knowledge" tvg-chno="049" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Lifestyle",Dens Learning & Knowledge
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h236/02.m3u8
-#EXTINF:-1 tvg-id="auto.dens.life.style" tvg-name="Dens Life & Style" tvg-chno="034" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Lifestyle",Dens Life & Style
+#EXTINF:-1 tvg-id="auto.dens.life.style" tvg-name="Dens Life & Style" tvg-chno="050" tvg-logo="https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501284_tvchannels_v1.jpg" group-title="Lifestyle",Dens Life & Style
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h222/02.m3u8
-#EXTINF:-1 tvg-id="Dens ShowBiz" tvg-name="Dens ShowBiz" tvg-chno="035" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="Lifestyle",Dens ShowBiz
+#EXTINF:-1 tvg-id="Dens ShowBiz" tvg-name="Dens ShowBiz" tvg-chno="051" tvg-logo="https://e7.pngegg.com/pngimages/893/782/png-clipart-competitive-dance-competition-award-talent-show-award-love-television.png" group-title="Lifestyle",Dens ShowBiz
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h244/02.m3u8
-#EXTINF:-1 tvg-id="FashionBox.id" tvg-name="Fashion Box" tvg-chno="036" group-title="Lifestyle",Fashion Box
+#EXTINF:-1 tvg-id="FashionBox.id" tvg-name="Fashion Box" tvg-chno="052" group-title="Lifestyle",Fashion Box
 https://dash2.antik.sk/live/test_fashionbox_medium_atk/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVGlobal.id" tvg-name="Fashion TV Global" tvg-chno="037" group-title="Lifestyle",Fashion TV Global
+#EXTINF:-1 tvg-id="FashionTVGlobal.id" tvg-name="Fashion TV Global" tvg-chno="053" group-title="Lifestyle",Fashion TV Global
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 tvg-id="FashionTVParis.id" tvg-name="FashionTV Paris" tvg-chno="038" group-title="Lifestyle",FashionTV Paris
+#EXTINF:-1 tvg-id="FashionTVParis.id" tvg-name="FashionTV Paris" tvg-chno="054" group-title="Lifestyle",FashionTV Paris
 #EXTVLCOPT:http-referrer=https://www.fashiontv.com/
 https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="FashionTVParisMirror.id" tvg-name="FashionTV Paris Mirror" tvg-chno="039" group-title="Lifestyle",FashionTV Paris Mirror
+#EXTINF:-1 tvg-id="FashionTVParisMirror.id" tvg-name="FashionTV Paris Mirror" tvg-chno="055" group-title="Lifestyle",FashionTV Paris Mirror
 #EXTVLCOPT:http-referrer=https://www.fashiontv.com/
 https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
-#EXTINF:-1 tvg-id="nationalgeographic.id" tvg-name="National Geographic" tvg-chno="040" group-title="Documentary",National Geographic
+#EXTINF:-1 tvg-id="LoveNature.id" tvg-name="Love Nature" tvg-chno="056" group-title="Documentary",Love Nature
+https://aegis-cloudfront-1.tubi.video/6d6d0f24-8445-4b4c-bdf6-44f9e38beaa4/playlist.m3u8
+#EXTINF:-1 tvg-id="nationalgeographic.id" tvg-name="National Geographic" tvg-chno="057" group-title="Documentary",National Geographic
 http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 tvg-id="nationalgeographicwild.id" tvg-name="National Geographic Wild" tvg-chno="041" group-title="Documentary",National Geographic Wild
+#EXTINF:-1 tvg-id="nationalgeographicwild.id" tvg-name="National Geographic Wild" tvg-chno="058" group-title="Documentary",National Geographic Wild
 http://198.58.104.90:8989/natgeowild/index.m3u8
-#EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-name="Angel TV Indonesia" tvg-chno="042" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Indonesia
+#EXTINF:-1 tvg-id="PlutoTVFood.id" tvg-name="Pluto TV Food" tvg-chno="059" group-title="Documentary",Pluto TV Food
+https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHistory.id" tvg-name="Pluto TV History" tvg-chno="060" group-title="Documentary",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNature.id" tvg-name="Pluto TV Nature" tvg-chno="061" group-title="Documentary",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 tvg-id="PlutoTVTrueCrimeUnitedStates.id" tvg-name="Pluto TV True Crime (United States" tvg-chno="062" group-title="Documentary",Pluto TV True Crime (United States
+https://jmp2.uk/plu-5812be1c249444e05d09cc50.m3u8
+#EXTINF:-1 tvg-id="SmithsonianChannelPlutoTV.id" tvg-name="Smithsonian Channel Pluto TV" tvg-chno="063" group-title="Documentary",Smithsonian Channel Pluto TV
+https://jmp2.uk/plu-6298bd10d88ef000073f16b7.m3u8
+#EXTINF:-1 tvg-id="AngelTV.in@Indonesia" tvg-name="Angel TV Indonesia" tvg-chno="064" tvg-logo="https://i.imgur.com/qKLEGU7.png" group-title="Religious",Angel TV Indonesia
 https://janya-digimix.akamaized.net/vglive-sk-234616/indonesia/ngrp:angelindonesia_all/playlist.m3u8
-#EXTINF:-1 tvg-id="CGNTV.id" tvg-name="CGNTV Asia" tvg-chno="043" group-title="Religious",CGNTV Asia
+#EXTINF:-1 tvg-id="CGNTV.id" tvg-name="CGNTV Asia" tvg-chno="065" group-title="Religious",CGNTV Asia
 https://d3e05csss9c272.cloudfront.net/out/v1/f0bf71c57581470fb9379f603e8f5d83/CGNWebLiveCN.m3u8
-#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-chno="044" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="Religious",DAAI TV
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-chno="066" tvg-logo="https://thumbor.prod.vidiocdn.com/0r_rhIVANc6dsGvQ76616ZSqF04=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6482/e83fcf.png" group-title="Religious",DAAI TV
 https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
-#EXTINF:-1 tvg-id="DhammaTV.id@SD" tvg-name="Dhamma TV" tvg-chno="045" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Religious",Dhamma TV
+#EXTINF:-1 tvg-id="DhammaTV.id@SD" tvg-name="Dhamma TV" tvg-chno="067" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="Religious",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN Africa-Asia" tvg-chno="046" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious",EWTN Africa-Asia
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN Africa-Asia" tvg-chno="068" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious",EWTN Africa-Asia
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN Asia-Pacific" tvg-chno="047" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious",EWTN Asia-Pacific
+#EXTINF:-1 tvg-id="EWTN.us" tvg-name="EWTN Asia-Pacific" tvg-chno="069" tvg-logo="https://play-lh.googleusercontent.com/3716tvZCgzpIt-X1giV8jKwCdC8zwOI4eMUfO_ETWzNX6eGKIi2RiUK9a_fr6BCzjw" group-title="Religious",EWTN Asia-Pacific
 https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PujaTVAceh.id@SD" tvg-name="Puja TV Aceh" tvg-chno="048" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="Religious",Puja TV Aceh
+#EXTINF:-1 tvg-id="PujaTVAceh.id@SD" tvg-name="Puja TV Aceh" tvg-chno="070" tvg-logo="https://i.imgur.com/0TqABCL.png" group-title="Religious",Puja TV Aceh
 #EXTVLCOPT:http-referrer=https://www.pujatvaceh.com/
 https://pujatv.siar.us/live/pujatv.m3u8
-#EXTINF:-1 tvg-id="BaliTV.id@SD" tvg-name="Bali TV" tvg-chno="049" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_balitv.png" group-title="Local",Bali TV
+#EXTINF:-1 tvg-id="BaliTV.id@SD" tvg-name="Bali TV" tvg-chno="071" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_balitv.png" group-title="Local",Bali TV
 https://cdnbal1.indihometv.com/atm/DASH/balitv/balitv-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="BandungTV.id@SD" tvg-name="Bandung TV" tvg-chno="050" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="Local",Bandung TV
+#EXTINF:-1 tvg-id="BandungTV.id@SD" tvg-name="Bandung TV" tvg-chno="072" tvg-logo="https://i.postimg.cc/JzqSzcj9/200px-Logo-bdg-tv-2016.png" group-title="Local",Bandung TV
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
-#EXTINF:-1 tvg-id="auto.banjartv" tvg-name="BanjarTV" tvg-chno="051" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="Local",BanjarTV
+#EXTINF:-1 tvg-id="auto.banjartv" tvg-name="BanjarTV" tvg-chno="073" tvg-logo="https://i.imgur.com/TA76a10.png" group-title="Local",BanjarTV
 https://banjartv.siar.us/banjartv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="bmstv.id" tvg-name="BMS TV" tvg-chno="052" group-title="Local",BMS TV
+#EXTINF:-1 tvg-id="bmstv.id" tvg-name="BMS TV" tvg-chno="074" group-title="Local",BMS TV
 https://5bf7b725107e5.streamlock.net/bmstv/bmstv/chunklist_w710182401.m3u8
-#EXTINF:-1 tvg-id="auto.carubantv" tvg-name="CarubanTV" tvg-chno="053" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" group-title="Local",CarubanTV
+#EXTINF:-1 tvg-id="auto.carubantv" tvg-name="CarubanTV" tvg-chno="075" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/CarubanTV%28Low-res%29.png" group-title="Local",CarubanTV
 https://stream.carubantv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="auto.dhoho.tv.kediri" tvg-name="Dhoho TV" tvg-chno="054" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png" group-title="Local",Dhoho TV
+#EXTINF:-1 tvg-id="auto.dhoho.tv.kediri" tvg-name="Dhoho TV" tvg-chno="076" tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/86/DhohoTV.png" group-title="Local",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="DutaTV.id@SD" tvg-name="Duta TV" tvg-chno="055" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Local",Duta TV
+#EXTINF:-1 tvg-id="DutaTV.id@SD" tvg-name="Duta TV" tvg-chno="077" tvg-logo="https://i.imgur.com/B4JW54M.png" group-title="Local",Duta TV
 https://dutatv.siar.us/dutatv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="EfarinaTV.id@SD" tvg-name="Efarina TV" tvg-chno="056" tvg-logo="https://i.imgur.com/iYTimXh.png" group-title="Local",Efarina TV
+#EXTINF:-1 tvg-id="EfarinaTV.id@SD" tvg-name="Efarina TV" tvg-chno="078" tvg-logo="https://i.imgur.com/iYTimXh.png" group-title="Local",Efarina TV
 #EXTVLCOPT:http-referrer=https://live.efarinatv.net/
 https://live.efarinatv.com/hls/bgtaufikganteng.m3u8
-#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-name="Garuda TV" tvg-chno="057" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Local",Garuda TV
+#EXTINF:-1 tvg-id="GarudaTV.id@SD" tvg-name="Garuda TV" tvg-chno="079" tvg-logo="https://i.imgur.com/sXsAcZ3.png" group-title="Local",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
-#EXTINF:-1 tvg-id="JambiTV.id@SD" tvg-name="Jambi TV" tvg-chno="058" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" group-title="Local",Jambi TV
+#EXTINF:-1 tvg-id="JambiTV.id@SD" tvg-name="Jambi TV" tvg-chno="080" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/15/Jambi_TV.png" group-title="Local",Jambi TV
 https://jambitv.globaldigitalcore.com/hls/sah5tu7Eiveepohyieyie3OoteL2anga.m3u8
-#EXTINF:-1 tvg-id="JawaPosTV.id@SD" tvg-name="Jawa Pos TV" tvg-chno="059" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png" group-title="Local",Jawa Pos TV
+#EXTINF:-1 tvg-id="JawaPosTV.id@SD" tvg-name="Jawa Pos TV" tvg-chno="081" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/image_ch_jawapos.png" group-title="Local",Jawa Pos TV
 https://cdnbal1.indihometv.com/atm/DASH/jawapos/jawapos-avc1_2500000=7-3277707030000000.mpd
-#EXTINF:-1 tvg-id="auto.lingkar.tv" tvg-name="Lingkar TV" tvg-chno="060" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Local",Lingkar TV
+#EXTINF:-1 tvg-id="auto.lingkar.tv" tvg-name="Lingkar TV" tvg-chno="082" tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="Local",Lingkar TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
-#EXTINF:-1 tvg-id="MaduTV.id@SD" tvg-name="Madu TV" tvg-chno="061" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Local",Madu TV
+#EXTINF:-1 tvg-id="MaduTV.id@SD" tvg-name="Madu TV" tvg-chno="083" tvg-logo="https://i.imgur.com/cKpgbgW.png" group-title="Local",Madu TV
 #EXTVLCOPT:http-referrer=https://madu.tv/live-streaming/
 https://re1.siar.us/madutv/hd720/playlist.m3u8
-#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id@HD" tvg-name="Matrix TV Yogyakarta" tvg-chno="062" tvg-logo="https://stream.matrixtv.id/logo" group-title="Local",Matrix TV Yogyakarta
+#EXTINF:-1 tvg-id="MatrixTVYogyakarta.id@HD" tvg-name="Matrix TV Yogyakarta" tvg-chno="084" tvg-logo="https://stream.matrixtv.id/logo" group-title="Local",Matrix TV Yogyakarta
 https://stream.matrixtv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="pontv.id" tvg-name="PONTV" tvg-chno="063" group-title="Local",PONTV
+#EXTINF:-1 tvg-id="pontv.id" tvg-name="PONTV" tvg-chno="085" group-title="Local",PONTV
 https://63b2dc7196c38.streamlock.net:1937/PONTV/_definst_/myStream/chunklist_w247695662.m3u8
-#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-name="Radar Lampung TV" tvg-chno="064" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" group-title="Local",Radar Lampung TV
+#EXTINF:-1 tvg-id="RadarLampungTV.id@SD" tvg-name="Radar Lampung TV" tvg-chno="086" tvg-logo="https://upload.wikimedia.org/wikipedia/id/4/42/Logo_RadarTV_Lampung.png" group-title="Local",Radar Lampung TV
 #EXTVLCOPT:http-referrer=https://radartvnews.com/live-streaming/
 https://www.streaming.radartv.co.id/hls/test.m3u8
-#EXTINF:-1 tvg-id="radar.tasikmalaya.tv" tvg-name="Radar Tasikmalaya TV" tvg-chno="065" tvg-logo="https://i.imgur.com/o0DSsY1.png" group-title="Local",Radar Tasikmalaya TV
+#EXTINF:-1 tvg-id="radar.tasikmalaya.tv" tvg-name="Radar Tasikmalaya TV" tvg-chno="087" tvg-logo="https://i.imgur.com/o0DSsY1.png" group-title="Local",Radar Tasikmalaya TV
 https://v2.siar.us/radartasikmalaya/live/playlist.m3u8
-#EXTINF:-1 tvg-id="auto.salira.tv" tvg-name="Salira TV" tvg-chno="066" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Local",Salira TV
+#EXTINF:-1 tvg-id="auto.salira.tv" tvg-name="Salira TV" tvg-chno="088" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/Logo_Salira_TV.png" group-title="Local",Salira TV
 https://live.salira.tv/p/3870/hybrid/play.m3u8
-#EXTINF:-1 tvg-id="SangajiTV.id@SD" tvg-name="Sangaji TV" tvg-chno="067" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="Local",Sangaji TV
+#EXTINF:-1 tvg-id="SangajiTV.id@SD" tvg-name="Sangaji TV" tvg-chno="089" tvg-logo="https://i.imgur.com/4rTNT8F.png" group-title="Local",Sangaji TV
 https://cdn.adyadigitalteknologi.com:8090/vod/relay.m3u8
-#EXTINF:-1 tvg-id="SMTV.id@SD" tvg-name="SMTV" tvg-chno="068" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="Local",SMTV
+#EXTINF:-1 tvg-id="SMTV.id@SD" tvg-name="SMTV" tvg-chno="090" tvg-logo="https://upload.wikimedia.org/wikipedia/id/6/6e/Logo_SMTV_Sumedang.png" group-title="Local",SMTV
 https://e.siar.us/live/smtv.m3u8
-#EXTINF:-1 tvg-id="StaraTV.id@Bandung" tvg-name="Stara TV Bandung" tvg-chno="069" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",Stara TV Bandung
+#EXTINF:-1 tvg-id="StaraTV.id@Bandung" tvg-name="Stara TV Bandung" tvg-chno="091" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",Stara TV Bandung
 #EXTVLCOPT:http-referrer=https://bandung.staratv.id/
 https://bandung.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="StaraTV.id@Bojonegoro" tvg-name="Stara TV Bojonegoro" tvg-chno="070" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",Stara TV Bojonegoro
+#EXTINF:-1 tvg-id="StaraTV.id@Bojonegoro" tvg-name="Stara TV Bojonegoro" tvg-chno="092" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",Stara TV Bojonegoro
 https://bojonegoro.staratv.id/hls/stream.m3u8
-#EXTINF:-1 tvg-id="StaraTV.id@Jakarta" tvg-name="Stara TV Jakarta" tvg-chno="071" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",Stara TV Jakarta
+#EXTINF:-1 tvg-id="StaraTV.id@Jakarta" tvg-name="Stara TV Jakarta" tvg-chno="093" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",Stara TV Jakarta
 https://jakarta.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="StaraTV.id@Parahyangan" tvg-name="Stara TV Parahyangan" tvg-chno="072" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",Stara TV Parahyangan
+#EXTINF:-1 tvg-id="StaraTV.id@Parahyangan" tvg-name="Stara TV Parahyangan" tvg-chno="094" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",Stara TV Parahyangan
 https://parahyangan.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="auto.staratv.cianjur" tvg-name="StaraTV Cianjur" tvg-chno="073" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",StaraTV Cianjur
+#EXTINF:-1 tvg-id="auto.staratv.cianjur" tvg-name="StaraTV Cianjur" tvg-chno="095" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",StaraTV Cianjur
 https://cianjur.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="auto.staratv.malang" tvg-name="StaraTV Malang" tvg-chno="074" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",StaraTV Malang
+#EXTINF:-1 tvg-id="auto.staratv.malang" tvg-name="StaraTV Malang" tvg-chno="096" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",StaraTV Malang
 https://malang.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="auto.staratv.sumedang" tvg-name="StaraTV Sumedang" tvg-chno="075" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",StaraTV Sumedang
+#EXTINF:-1 tvg-id="auto.staratv.sumedang" tvg-name="StaraTV Sumedang" tvg-chno="097" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/91/Stara_TV_Sumedang_fix.png" group-title="Local",StaraTV Sumedang
 https://stream.staratv.id/hls/0/stream.m3u8
-#EXTINF:-1 tvg-id="tvtabalong.id" tvg-name="TV Tabalong" tvg-chno="076" group-title="Local",TV Tabalong
+#EXTINF:-1 tvg-id="tvtabalong.id" tvg-name="TV Tabalong" tvg-chno="098" group-title="Local",TV Tabalong
 https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/chunklist_w806925474.m3u8
-#EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-name="MBG TV" tvg-chno="077" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="Government",MBG TV
+#EXTINF:-1 tvg-id="MBGTV.id@FHD" tvg-name="MBG TV" tvg-chno="099" tvg-logo="https://i.imgur.com/t7GsFJN.jpeg" group-title="Government",MBG TV
 https://stream.convergen.co/mbg_stream/smil:mbStream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="brtv.id" tvg-name="BRTV" tvg-chno="078" group-title="General",BRTV
+#EXTINF:-1 tvg-id="BETPlutoTV.id" tvg-name="BET Pluto TV" tvg-chno="100" group-title="General",BET Pluto TV
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+#EXTINF:-1 tvg-id="brtv.id" tvg-name="BRTV" tvg-chno="101" group-title="General",BRTV
 https://5bf7b725107e5.streamlock.net/brtv/brtv/chunklist_w1484101028.m3u8
-#EXTINF:-1 tvg-id="bungotv.id" tvg-name="Bungo TV" tvg-chno="079" group-title="General",Bungo TV
-https://5bf7b725107e5.streamlock.net/bungotv/bungotv/chunklist_w722532023.m3u8
-#EXTINF:-1 tvg-id="ChannelJowo.id@SD" tvg-name="Channel Jowo" tvg-chno="080" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg" group-title="General",Channel Jowo
+#EXTINF:-1 tvg-id="ChannelJowo.id@SD" tvg-name="Channel Jowo" tvg-chno="102" tvg-logo="https://pic.dens.tv/tv_183x174/Channel_Jowo_1.jpg" group-title="General",Channel Jowo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 https://op-flashcon-digdayasd-1.dens.tv/h/h215/stream.m3u8?app_type=web&userid=lite&chname=Channel_Jowo
-#EXTINF:-1 tvg-id="dTVi.id" tvg-name="dTVi" tvg-chno="081" group-title="General",dTVi
+#EXTINF:-1 tvg-id="ComedyCentralPlutoTV.id" tvg-name="Comedy Central Pluto TV" tvg-chno="103" group-title="General",Comedy Central Pluto TV
+https://jmp2.uk/plu-5ca671f215a62078d2ec0abf.m3u8
+#EXTINF:-1 tvg-id="dTVi.id" tvg-name="dTVi" tvg-chno="104" group-title="General",dTVi
 https://e.siar.us/live/dtvi.m3u8
-#EXTINF:-1 tvg-id="Indonesiana TV" tvg-name="Indonesiana TV" tvg-chno="082" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="General",Indonesiana TV
+#EXTINF:-1 tvg-id="Indonesiana TV" tvg-name="Indonesiana TV" tvg-chno="105" tvg-logo="https://layarceritaperempuan.indonesiana.tv/_nuxt/img/logo-indonesianatv-fit.0d9697f.png" group-title="General",Indonesiana TV
 https://tvstreamcast.com/indonesiana.m3u8
-#EXTINF:-1 tvg-id="insantv.id" tvg-name="Insan TV" tvg-chno="083" group-title="General",Insan TV
+#EXTINF:-1 tvg-id="insantv.id" tvg-name="Insan TV" tvg-chno="106" group-title="General",Insan TV
 https://flv.intechmedia.net/live/ch1.m3u8?chcat=FTA&md5=Ao7_KPpGl1MEiZCDSkEaSg&expires=1751171808
-#EXTINF:-1 tvg-id="JagantaraTV.id" tvg-name="Jagantara TV" tvg-chno="084" group-title="General",Jagantara TV
+#EXTINF:-1 tvg-id="JagantaraTV.id" tvg-name="Jagantara TV" tvg-chno="107" group-title="General",Jagantara TV
 https://flv.intechmedia.net/live/ch119.m3u8
-#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-chno="085" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" group-title="General",MDTV
+#EXTINF:-1 tvg-id="MDTV.id" tvg-name="MDTV" tvg-chno="108" tvg-logo="https://thumbor.prod.vidiocdn.com/LCZH_yEBnTYEQzrU1pB7w7ev-Bw=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/875/325605.png" group-title="General",MDTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0/v2206
 https://op-flashcon-digdayahd-1.dens.tv/h/h223/02.m3u8
-#EXTINF:-1 tvg-id="PersijaTV.id" tvg-name="Persija TV" tvg-chno="086" group-title="General",Persija TV
+#EXTINF:-1 tvg-id="MTVPlutoTV.id" tvg-name="MTV Pluto TV" tvg-chno="109" group-title="General",MTV Pluto TV
+https://jmp2.uk/plu-5ca672f515a62078d2ec0ad2.m3u8
+#EXTINF:-1 tvg-id="PersijaTV.id" tvg-name="Persija TV" tvg-chno="110" group-title="General",Persija TV
 https://cdnjkt913.transvision.co.id:1000/live/master/1/000000008d1b3a72018dbfcd427f46ab/manifest.mpd
-#EXTINF:-1 tvg-id="PKTV.id@SD" tvg-name="PKTV" tvg-chno="087" tvg-logo="https://i.imgur.com/mldv8Sf.png" group-title="General",PKTV
+#EXTINF:-1 tvg-id="PKTV.id@SD" tvg-name="PKTV" tvg-chno="111" tvg-logo="https://i.imgur.com/mldv8Sf.png" group-title="General",PKTV
 https://streaming.id18.tunnel.my.id/hls/stream.m3u8
-#EXTINF:-1 tvg-id="RCTV.id@SD" tvg-name="RCTV" tvg-chno="088" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="General",RCTV
+#EXTINF:-1 tvg-id="PlutoTVGameShows.id" tvg-name="Pluto TV Game Shows" tvg-chno="112" group-title="General",Pluto TV Game Shows
+https://jmp2.uk/plu-6036e7c385749f00075dbd3b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRealityUnitedStates.id" tvg-name="Pluto TV Reality (United States" tvg-chno="113" group-title="General",Pluto TV Reality (United States
+https://jmp2.uk/plu-69fa3faab9c0f0d444e64de3.m3u8
+#EXTINF:-1 tvg-id="RCTV.id@SD" tvg-name="RCTV" tvg-chno="114" tvg-logo="https://i.imgur.com/CyIlt0y.png" group-title="General",RCTV
 #EXTVLCOPT:http-referrer=https://www.radarcirebon.tv/livestreaming/
 https://v10.siar.us/rctv/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TATV.id@SD" tvg-name="TATV" tvg-chno="089" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="General",TATV
+#EXTINF:-1 tvg-id="Tastemade.id" tvg-name="Tastemade" tvg-chno="115" group-title="General",Tastemade
+https://rakutenaa-tm-intl-aus-rakuten-eu-n1gtg.amagi.tv/playlist/rakutenAA-tm-intl-aus-rakuten-eu/playlist.m3u8
+#EXTINF:-1 tvg-id="TATV.id@SD" tvg-name="TATV" tvg-chno="116" tvg-logo="https://i.imgur.com/1f0EC7t.png" group-title="General",TATV
 https://v2.siar.us/tatv/live.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="TV9.id" tvg-name="TV9" tvg-chno="090" group-title="General",TV9
+#EXTINF:-1 tvg-id="TV9.id" tvg-name="TV9" tvg-chno="117" group-title="General",TV9
 https://5bf7b725107e5.streamlock.net/tv9/tv9/chunklist_w804001730.m3u8
-#EXTINF:-1 tvg-id="auto.vtv" tvg-name="VTV" tvg-chno="091" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="General",VTV
+#EXTINF:-1 tvg-id="auto.vtv" tvg-name="VTV" tvg-chno="118" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" group-title="General",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
-#EXTINF:-1 tvg-id="IDXChannel.yt" tvg-name="IDX Channel (YouTube)" tvg-chno="092" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg" group-title="YouTube",IDX Channel (YouTube)
+#EXTINF:-1 tvg-id="IDXChannel.yt" tvg-name="IDX Channel (YouTube)" tvg-chno="119" tvg-logo="https://raw.githubusercontent.com/apistech/project/refs/heads/main/logo/imageCir_IDX-180x180_2025_11_06_13_10_27.jpg" group-title="YouTube",IDX Channel (YouTube)
 https://www.youtube.com/watch?v=hjCkB9XRpkU
-#EXTINF:-1 tvg-id="KOMPASTV.yt" tvg-name="Kompas TV (YouTube)" tvg-chno="093" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="YouTube",Kompas TV (YouTube)
+#EXTINF:-1 tvg-id="KOMPASTV.yt" tvg-name="Kompas TV (YouTube)" tvg-chno="120" tvg-logo="https://thumbor.prod.vidiocdn.com/Pf8yLSfHEUZeRI9tUzLDR2U8Zow=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/874/042ca3.png" group-title="YouTube",Kompas TV (YouTube)
 https://www.youtube.com/watch?v=E3420sbNd9Q
-#EXTINF:-1 tvg-id="metrotvnews.yt" tvg-name="Metro TV (YouTube)" tvg-chno="094" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="YouTube",Metro TV (YouTube)
+#EXTINF:-1 tvg-id="metrotvnews.yt" tvg-name="Metro TV (YouTube)" tvg-chno="121" tvg-logo="https://thumbor.prod.vidiocdn.com/u0aa_S_rQeujrp5eR6LwXdertrI=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/777/ea8483.png" group-title="YouTube",Metro TV (YouTube)
 https://www.youtube.com/watch?v=e1dGmEx92r0
-#EXTINF:-1 tvg-id="tvOneNews.yt" tvg-name="tvOne (YouTube)" tvg-chno="095" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="YouTube",tvOne (YouTube)
+#EXTINF:-1 tvg-id="tvOneNews.yt" tvg-name="tvOne (YouTube)" tvg-chno="122" tvg-logo="https://thumbor.prod.vidiocdn.com/APQ6a9vXvN6lU1zjeyL15IV_AJQ=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/783/07750c.png" group-title="YouTube",tvOne (YouTube)
 https://www.youtube.com/watch?v=rQJoEpzKkNk
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Aceh" tvg-chno="096" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Aceh
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Aceh" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Aceh
 https://ott-balancer.tvri.go.id/live/eds/Aceh/hls/Aceh.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Bali" tvg-chno="097" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bali
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Bali" tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bali
 https://ott-balancer.tvri.go.id/live/eds/Bali/hls/Bali.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Bangka Belitung" tvg-chno="098" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bangka Belitung
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Bangka Belitung" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bangka Belitung
 https://ott-balancer.tvri.go.id/live/eds/Babel/hls/Babel.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Bengkulu" tvg-chno="099" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bengkulu
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Bengkulu" tvg-chno="126" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Bengkulu
 https://ott-balancer.tvri.go.id/live/eds/Bengkulu/hls/Bengkulu.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Gorontalo" tvg-chno="100" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Gorontalo
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Gorontalo" tvg-chno="127" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Gorontalo
 https://ott-balancer.tvri.go.id/live/eds/Gorontalo/hls/Gorontalo.m3u8
-#EXTINF:-1 tvg-id="TVRI.id@Jakarta" tvg-name="TVRI Jakarta" tvg-chno="101" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jakarta
+#EXTINF:-1 tvg-id="TVRI.id@Jakarta" tvg-name="TVRI Jakarta" tvg-chno="128" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/960px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jakarta
 https://ott-balancer.tvri.go.id/live/eds/DKI/hls/DKI.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Jambi" tvg-chno="102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jambi
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Jambi" tvg-chno="129" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jambi
 https://ott-balancer.tvri.go.id/live/eds/Jambi/hls/Jambi.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Jawa Barat" tvg-chno="103" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Barat
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Jawa Barat" tvg-chno="130" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Barat
 https://ott-balancer.tvri.go.id/live/eds/Jabar/hls/Jabar.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Jawa Tengah" tvg-chno="104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Tengah
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Jawa Tengah" tvg-chno="131" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Tengah
 https://ott-balancer.tvri.go.id/live/eds/Jateng/hls/Jateng.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Jawa Timur" tvg-chno="105" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Timur
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Jawa Timur" tvg-chno="132" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Jawa Timur
 https://ott-balancer.tvri.go.id/live/eds/Jatim/hls/Jatim.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Kalimantan Barat" tvg-chno="106" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Barat
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Kalimantan Barat" tvg-chno="133" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Barat
 https://ott-balancer.tvri.go.id/live/eds/Kalbar/hls/Kalbar.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Kalimantan Selatan" tvg-chno="107" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Selatan
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Kalimantan Selatan" tvg-chno="134" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Selatan
 https://ott-balancer.tvri.go.id/live/eds/Kalsel/hls/Kalsel.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Kalimantan Tengah" tvg-chno="108" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Tengah
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Kalimantan Tengah" tvg-chno="135" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Tengah
 https://ott-balancer.tvri.go.id/live/eds/Kalteng/hls/Kalteng.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Kalimantan Timur" tvg-chno="109" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Timur
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Kalimantan Timur" tvg-chno="136" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Kalimantan Timur
 https://ott-balancer.tvri.go.id/live/eds/Kaltim/hls/Kaltim.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Lampung" tvg-chno="110" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Lampung
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Lampung" tvg-chno="137" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Lampung
 https://ott-balancer.tvri.go.id/live/eds/Lampung/hls/Lampung.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Maluku" tvg-chno="111" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Maluku
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Maluku" tvg-chno="138" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Maluku
 https://ott-balancer.tvri.go.id/live/eds/Ambon/hls/Ambon.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-chno="112" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="TVRI",TVRI Nasional
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nasional" tvg-chno="139" tvg-logo="https://thumbor.prod.vidiocdn.com/F6W__Y0wn_7mFW0cOuz7mi7qjWU=/230x230/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/6441/528cc9.png" group-title="TVRI",TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nusa Tenggara Barat" tvg-chno="113" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Nusa Tenggara Barat
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nusa Tenggara Barat" tvg-chno="140" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Nusa Tenggara Barat
 https://ott-balancer.tvri.go.id/live/eds/NTB/hls/NTB.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nusa Tenggara Timur" tvg-chno="114" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Nusa Tenggara Timur
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Nusa Tenggara Timur" tvg-chno="141" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Nusa Tenggara Timur
 https://ott-balancer.tvri.go.id/live/eds/NTT/hls/NTT.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Papua" tvg-chno="115" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Papua
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Papua" tvg-chno="142" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Papua
 https://ott-balancer.tvri.go.id/live/eds/Papua/hls/Papua.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Papua Barat" tvg-chno="116" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Papua Barat
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Papua Barat" tvg-chno="143" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Papua Barat
 https://ott-balancer.tvri.go.id/live/eds/Pabar/hls/Pabar.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Riau" tvg-chno="117" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Riau
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Riau" tvg-chno="144" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Riau
 https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8
-#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-chno="118" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="TVRI",TVRI Sport
+#EXTINF:-1 tvg-id="TVRISport.id" tvg-name="TVRI Sport" tvg-chno="145" tvg-logo="https://github.com/riotryulianto/iptv-playlists/blob/main/icons/tvrisport.png?raw=true" group-title="TVRI",TVRI Sport
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Barat" tvg-chno="119" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Barat
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Barat" tvg-chno="146" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Barat
 https://ott-balancer.tvri.go.id/live/eds/Sulbar/hls/Sulbar.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Selatan" tvg-chno="120" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Selatan
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Selatan" tvg-chno="147" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Selatan
 https://ott-balancer.tvri.go.id/live/eds/Sulsel/hls/Sulsel.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Tengah" tvg-chno="121" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Tengah
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Tengah" tvg-chno="148" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Tengah
 https://ott-balancer.tvri.go.id/live/eds/Sulteng/hls/Sulteng.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Tenggara" tvg-chno="122" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Tenggara
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Tenggara" tvg-chno="149" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Tenggara
 https://ott-balancer.tvri.go.id/live/eds/Sultra/hls/Sultra.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Utara" tvg-chno="123" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Utara
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sulawesi Utara" tvg-chno="150" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sulawesi Utara
 https://ott-balancer.tvri.go.id/live/eds/Sulut/hls/Sulut.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sumatera Barat" tvg-chno="124" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sumatera Barat
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sumatera Barat" tvg-chno="151" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sumatera Barat
 https://ott-balancer.tvri.go.id/live/eds/Sumbar/hls/Sumbar.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sumatera Selatan" tvg-chno="125" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sumatera Selatan
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sumatera Selatan" tvg-chno="152" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sumatera Selatan
 https://ott-balancer.tvri.go.id/live/eds/Sumsel/hls/Sumsel.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sumatera Utara" tvg-chno="126" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sumatera Utara
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Sumatera Utara" tvg-chno="153" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Sumatera Utara
 https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
-#EXTINF:-1 tvg-id="tvri.world" tvg-name="TVRI World" tvg-chno="127" tvg-logo="https://i.imgur.com/o0DSsY1.png" group-title="TVRI",TVRI World
+#EXTINF:-1 tvg-id="tvri.world" tvg-name="TVRI World" tvg-chno="154" tvg-logo="https://i.imgur.com/o0DSsY1.png" group-title="TVRI",TVRI World
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Yogyakarta" tvg-chno="128" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Yogyakarta
+#EXTINF:-1 tvg-id="TVRI.id" tvg-name="TVRI Yogyakarta" tvg-chno="155" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/512px-TVRILogo2019.svg.png" group-title="TVRI",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8

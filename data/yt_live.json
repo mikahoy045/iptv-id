@@ -1,0 +1,281 @@
+[
+ {
+  "handle": "trans7",
+  "name": "Trans7",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @trans7/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "TransTVOfficial",
+  "name": "Trans TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @TransTVOfficial: The channel is not currently live"
+ },
+ {
+  "handle": "officialvidio",
+  "name": "SCTV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @officialvidio: The channel is not currently live"
+ },
+ {
+  "handle": "officialindosiar",
+  "name": "Indosiar",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @officialindosiar/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "metroofficialvideo",
+  "name": "Metro TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @metroofficialvideo/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "tvOneNews",
+  "name": "tvOne",
+  "video_id": "ad7LxqbIJgU",
+  "title": "[BREAKING NEWS] Arab Saudi Minta Dunia Internasional Kecam Houthi | tvOne 2026-09-27 14:57",
+  "channel": "tvOneNews ",
+  "is_live": true,
+  "duration": null,
+  "url": "https://www.youtube.com/@tvOneNews/live",
+  "ok": false,
+  "err": "title blocked: [BREAKING NEWS] Arab Saudi Minta Dunia Internasional Kecam Houthi | tvOne 2026-0"
+ },
+ {
+  "handle": "Liputan6",
+  "name": "Liputan6 (NET.)",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @Liputan6: The channel is not currently live"
+ },
+ {
+  "handle": "KOMPASTV",
+  "name": "Kompas TV",
+  "video_id": "DOOrIxw5xOw",
+  "title": "LIVE STREAMING 24 JAM KOMPASTV 2026-09-27 14:57",
+  "channel": "KOMPASTV",
+  "is_live": true,
+  "duration": null,
+  "url": "https://www.youtube.com/@KOMPASTV/live",
+  "ok": true
+ },
+ {
+  "handle": "tvMu",
+  "name": "TVMU",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @tvMu: The channel is not currently live"
+ },
+ {
+  "handle": "DAIICTV",
+  "name": "DAAI TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @DAIICTV/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "RAKYATTVRI",
+  "name": "TVRI",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @RAKYATTVRI/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "sindonewstv",
+  "name": "Sindo News TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @sindonewstv: The channel is not currently live"
+ },
+ {
+  "handle": "BeritaSatuTV",
+  "name": "BTV (Berita Satu)",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @BeritaSatuTV: The channel is not currently live"
+ },
+ {
+  "handle": "IDXChannel",
+  "name": "IDX Channel",
+  "video_id": "hjCkB9XRpkU",
+  "title": "\ud83d\udd34LIVE STREAMING - 24 JAM | IDX CHANNEL 2026-09-27 14:57",
+  "channel": "IDX CHANNEL",
+  "is_live": true,
+  "duration": null,
+  "url": "https://www.youtube.com/@IDXChannel/live",
+  "ok": true
+ },
+ {
+  "handle": "BerkilasLokal",
+  "name": "Jaktv",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @BerkilasLokal/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "momaliunited",
+  "name": "MOMALI / ANTV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @momaliunited/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "ANTVtv",
+  "name": "ANTV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @ANTVtv: The channel is not currently live"
+ },
+ {
+  "handle": "RTVChiInfo",
+  "name": "RTV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @RTVChiInfo/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "inewsdotid",
+  "name": "iNews",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @inewsdotid/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "rctiofficial",
+  "name": "RCTI",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @rctiofficial/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "JawaPosTV",
+  "name": "Jawa Pos TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @JawaPosTV: The channel is not currently live"
+ },
+ {
+  "handle": "NET.",
+  "name": "NET.",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @NET.: The channel is not currently live"
+ },
+ {
+  "handle": "jtvbandung",
+  "name": "JTV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @jtvbandung/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "Balivideo",
+  "name": "Bali TV",
+  "ok": false,
+  "err": "ERROR: [youtube] 9v5D-9WWu4c: This live event will begin in a few moments."
+ },
+ {
+  "handle": "DhammaTV",
+  "name": "Dhamma TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @DhammaTV/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "JAK-ONE",
+  "name": "JAK TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @JAK-ONE/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "CNBCIndonesiaTV",
+  "name": "CNBC Indonesia",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @CNBCIndonesiaTV/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "CNNIndonesiaTV",
+  "name": "CNN Indonesia",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @CNNIndonesiaTV/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "KPU",
+  "name": "KPU RI Channel",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @KPU/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "TVParlemenRIdot",
+  "name": "TV Parlemen DPR RI",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @TVParlemenRIdot/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "KemkomdigiRI",
+  "name": "Kemenko PMK / Komdigi",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @KemkomdigiRI: The channel is not currently live"
+ },
+ {
+  "handle": "KemendikbudRI",
+  "name": "Kemendikbud RI",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @KemendikbudRI/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "BNPB_Indonesia",
+  "name": "BNPB",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @BNPB_Indonesia: The channel is not currently live"
+ },
+ {
+  "handle": "DPRRI",
+  "name": "DPR RI",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @DPRRI: The channel is not currently live"
+ },
+ {
+  "handle": "Setpres",
+  "name": "Setpres",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @Setpres/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "JogjaTV",
+  "name": "Jogja TV",
+  "video_id": "2xNmspKU3SI",
+  "title": "CERIA ANAK | MINGGU, 27 SEPTEMBER 2026 2026-09-27 14:57",
+  "channel": "JOGJA TV",
+  "is_live": true,
+  "duration": null,
+  "url": "https://www.youtube.com/@JogjaTV/live",
+  "ok": true
+ },
+ {
+  "handle": "padangtv",
+  "name": "Padang TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @padangtv: The channel is not currently live"
+ },
+ {
+  "handle": "Malangtv",
+  "name": "Malang TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @Malangtv: The channel is not currently live"
+ },
+ {
+  "handle": "BandungTV",
+  "name": "Bandung TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @BandungTV: The channel is not currently live"
+ },
+ {
+  "handle": "Faktanews",
+  "name": "Fakta News",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @Faktanews: The channel is not currently live"
+ },
+ {
+  "handle": "CitrangTV",
+  "name": "Citrang TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @CitrangTV/live: Unable to download API page: HTTP Error 404: Not Found (caused by <HTTPError 404: Not Found>)"
+ },
+ {
+  "handle": "KLXtv",
+  "name": "KLX TV",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @KLXtv: The channel is not currently live"
+ },
+ {
+  "handle": "suarasurabayamedia",
+  "name": "Radio Suara Surabaya",
+  "ok": false,
+  "err": "ERROR: [youtube:tab] @suarasurabayamedia: The channel is not currently live"
+ }
+]
